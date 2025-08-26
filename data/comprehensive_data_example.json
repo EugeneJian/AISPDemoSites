@@ -1,0 +1,3294 @@
+{
+  "exportDate": "2025-08-24T10:01:05.155Z",
+  "totalProducts": 43,
+  "totalAlignments": 43,
+  "products": [
+    {
+      "name": "EcoHome 15K",
+      "description": "Single-phase residential energy storage system, covering 5-15kWh capacity range",
+      "mainCategory": "Product Line",
+      "subCategory": "Residential Hybrid ɸ1",
+      "status": "testing",
+      "progress": 85,
+      "responsibleTeam": "Residential Storage Team",
+      "startDate": "2024-01-01",
+      "expectedCompletionDate": "2024-06-30",
+      "specifications": [
+        {
+          "key": "Capacity",
+          "value": "5-15kWh",
+          "unit": "kWh"
+        },
+        {
+          "key": "Voltage",
+          "value": "230V",
+          "unit": "V"
+        },
+        {
+          "key": "Installation",
+          "value": "Wall-mounted/Floor-standing",
+          "unit": ""
+        }
+      ],
+      "targetMarkets": [
+        "Global residential users",
+        "Small commercial"
+      ],
+      "features": [
+        "Bidirectional charging/discharging",
+        "Safety protection",
+        "Smart monitoring",
+        "Remote control"
+      ],
+      "priority": "high",
+      "budget": 2000000,
+      "actualCost": 1800000,
+      "riskLevel": "low",
+      "dependencies": [
+        "Installation services",
+        "Smart control platform"
+      ],
+      "stakeholders": [
+        "Global sales team",
+        "Installers"
+      ],
+      "notes": "Core product line with high market acceptance",
+      "metadata": {},
+      "alignmentCount": 8,
+      "averageStrength": 70,
+      "alignments": [
+        {
+          "id": "align_1756023037535_5wlvb9",
+          "sourceType": "product",
+          "strength": 90,
+          "benefits": [
+            "Improve product reliability",
+            "Reduce maintenance costs",
+            "Quick problem resolution",
+            "Enhance product competitiveness"
+          ],
+          "challenges": [
+            "Requires stable network environment",
+            "Upgrade process needs security measures",
+            "User training required"
+          ]
+        },
+        {
+          "id": "align_1756023037536_gq576d",
+          "sourceType": "product",
+          "strength": 85,
+          "benefits": [
+            "Improve user experience",
+            "Enhance product usability",
+            "Lower user barriers",
+            "Expand market acceptance"
+          ],
+          "challenges": [
+            "Need to adapt to multiple devices",
+            "High user experience requirements",
+            "Continuous optimization needed"
+          ]
+        },
+        {
+          "id": "align_1756023037536_2psglp",
+          "sourceType": "product",
+          "strength": 95,
+          "benefits": [
+            "Maximize user benefits",
+            "Enhance product value",
+            "Strengthen market competitiveness",
+            "Support grid balance"
+          ],
+          "challenges": [
+            "Requires electricity price data access",
+            "High algorithm optimization requirements",
+            "User authorization needed"
+          ]
+        },
+        {
+          "id": "align_1756023037536_s0022f",
+          "sourceType": "product",
+          "strength": 50,
+          "benefits": [],
+          "challenges": []
+        },
+        {
+          "id": "align_1756023037537_xgxe9s",
+          "sourceType": "product",
+          "strength": 50,
+          "benefits": [],
+          "challenges": []
+        },
+        {
+          "id": "align_1756023037537_nz1laz",
+          "sourceType": "product",
+          "strength": 90,
+          "benefits": [],
+          "challenges": []
+        },
+        {
+          "id": "align_1756023037537_c9djp2",
+          "sourceType": "product",
+          "strength": 50,
+          "benefits": [],
+          "challenges": []
+        },
+        {
+          "id": "align_1756023037538_rni6au",
+          "sourceType": "product",
+          "strength": 50,
+          "benefits": [],
+          "challenges": []
+        }
+      ],
+      "id": "product_1754634282074_7jrblh",
+      "createdBy": "user",
+      "updatedBy": "user",
+      "updatedAt": "2025-08-24T09:58:40.342Z"
+    },
+    {
+      "name": "PowerMax 30K",
+      "description": "Three-phase residential energy storage system for high-power home applications",
+      "mainCategory": "Product Line",
+      "subCategory": "Residential Hybrid ɸ3",
+      "status": "testing",
+      "progress": 80,
+      "responsibleTeam": "Residential Storage Team",
+      "startDate": "2024-02-01",
+      "expectedCompletionDate": "2024-08-31",
+      "specifications": [
+        {
+          "key": "Capacity",
+          "value": "10-30kWh",
+          "unit": "kWh"
+        },
+        {
+          "key": "Voltage",
+          "value": "400V",
+          "unit": "V"
+        },
+        {
+          "key": "Power",
+          "value": "5-15kW",
+          "unit": "kW"
+        }
+      ],
+      "targetMarkets": [
+        "High-power residential users",
+        "Small commercial and industrial"
+      ],
+      "features": [
+        "Safety protection",
+        "Smart monitoring",
+        "Remote control",
+        "High power output"
+      ],
+      "priority": "high",
+      "budget": 2500000,
+      "actualCost": 2200000,
+      "riskLevel": "medium",
+      "dependencies": [
+        "Installation services",
+        "Smart control platform"
+      ],
+      "stakeholders": [
+        "Global sales team",
+        "Installers"
+      ],
+      "notes": "High-power product line with high technical requirements",
+      "metadata": {},
+      "alignmentCount": 7,
+      "averageStrength": 74,
+      "alignments": [
+        {
+          "id": "align_1756023037536_9fbhtm",
+          "sourceType": "product",
+          "strength": 85,
+          "benefits": [
+            "Improve product reliability",
+            "Reduce maintenance costs",
+            "Quick problem resolution",
+            "Enhance product competitiveness"
+          ],
+          "challenges": [
+            "Requires stable network environment",
+            "Upgrade process needs security measures",
+            "User training required"
+          ]
+        },
+        {
+          "id": "align_1756023037536_ffpdqk",
+          "sourceType": "product",
+          "strength": 80,
+          "benefits": [
+            "Improve user experience",
+            "Enhance product usability",
+            "Lower user barriers",
+            "Expand market acceptance"
+          ],
+          "challenges": [
+            "Need to adapt to multiple devices",
+            "High user experience requirements",
+            "Continuous optimization needed"
+          ]
+        },
+        {
+          "id": "align_1756023037536_5mdwn2",
+          "sourceType": "product",
+          "strength": 90,
+          "benefits": [
+            "Maximize user benefits",
+            "Enhance product value",
+            "Strengthen market competitiveness",
+            "Support grid balance"
+          ],
+          "challenges": [
+            "Requires electricity price data access",
+            "High algorithm optimization requirements",
+            "User authorization needed"
+          ]
+        },
+        {
+          "id": "align_1756023037536_l386xm",
+          "sourceType": "product",
+          "strength": 80,
+          "benefits": [
+            "Support mixed use of old and new",
+            "Support mixed use of different SOC"
+          ],
+          "challenges": [
+            "Cost too high",
+            "Complex system design (BDC)",
+            "Efficiency impact"
+          ]
+        },
+        {
+          "id": "align_1756023037536_dvj7f4",
+          "sourceType": "product",
+          "strength": 80,
+          "benefits": [
+            "Good cost-effectiveness"
+          ],
+          "challenges": [
+            "Time to market"
+          ]
+        },
+        {
+          "id": "align_1756023037537_d71dme",
+          "sourceType": "product",
+          "strength": 50,
+          "benefits": [],
+          "challenges": []
+        },
+        {
+          "id": "align_1756023037538_x975y6",
+          "sourceType": "product",
+          "strength": 50,
+          "benefits": [],
+          "challenges": []
+        }
+      ],
+      "id": "product_1754634282074_90bhv8",
+      "createdBy": "user",
+      "updatedBy": "user",
+      "updatedAt": "2025-08-24T09:57:10.096Z"
+    },
+    {
+      "name": "BalconyPower 5K",
+      "description": "Portable balcony energy storage system for small apartments and rental users",
+      "mainCategory": "Product Line",
+      "subCategory": "Power Supply R&D",
+      "status": "launch",
+      "progress": 70,
+      "responsibleTeam": "Residential Storage Team",
+      "startDate": "2024-03-01",
+      "expectedCompletionDate": "2024-09-30",
+      "specifications": [
+        {
+          "key": "Capacity",
+          "value": "1-5kWh",
+          "unit": "kWh"
+        },
+        {
+          "key": "Installation",
+          "value": "Portable",
+          "unit": ""
+        },
+        {
+          "key": "Application Scenario",
+          "value": "Balcony/Small space",
+          "unit": ""
+        }
+      ],
+      "targetMarkets": [
+        "Urban users",
+        "Small apartment users",
+        "Rental users"
+      ],
+      "features": [
+        "Portable installation",
+        "Compact design",
+        "Smart monitoring",
+        "Mobile application"
+      ],
+      "priority": "medium",
+      "budget": 1500000,
+      "actualCost": 1200000,
+      "riskLevel": "low",
+      "dependencies": [
+        "Portable design",
+        "Mobile application"
+      ],
+      "stakeholders": [
+        "Urban sales team",
+        "Users"
+      ],
+      "notes": "Emerging market with great potential",
+      "metadata": {},
+      "alignmentCount": 4,
+      "averageStrength": 71,
+      "alignments": [
+        {
+          "id": "align_1756023037536_xmjbek",
+          "sourceType": "product",
+          "strength": 80,
+          "benefits": [
+            "Improve user experience",
+            "Enhance product competitiveness",
+            "Lower user barriers",
+            "Expand market acceptance"
+          ],
+          "challenges": [
+            "Need to adapt to multiple devices",
+            "High user experience requirements",
+            "Continuous optimization needed"
+          ]
+        },
+        {
+          "id": "align_1756023037536_h2h34t",
+          "sourceType": "product",
+          "strength": 75,
+          "benefits": [
+            "Provide revenue optimization services",
+            "Enhance product competitiveness",
+            "Support grid balance",
+            "Create new value"
+          ],
+          "challenges": [
+            "Requires electricity price data access",
+            "High algorithm optimization requirements",
+            "User authorization needed"
+          ]
+        },
+        {
+          "id": "align_1756023037536_5mt3vx",
+          "sourceType": "product",
+          "strength": 80,
+          "benefits": [
+            "Remote"
+          ],
+          "challenges": []
+        },
+        {
+          "id": "align_1756023037538_ou8jca",
+          "sourceType": "product",
+          "strength": 50,
+          "benefits": [],
+          "challenges": []
+        }
+      ],
+      "id": "product_1754634282074_gircrb"
+    },
+    {
+      "name": "GridWise 100K",
+      "description": "Commercial and industrial intelligent energy storage management system supporting microgrid applications",
+      "mainCategory": "Product Line",
+      "subCategory": "C&I ESS",
+      "status": "development",
+      "progress": 75,
+      "responsibleTeam": "Commercial Energy Storage Team",
+      "startDate": "2024-01-01",
+      "expectedCompletionDate": "2024-10-31",
+      "specifications": [
+        {
+          "key": "Power",
+          "value": "50-500kW",
+          "unit": "kW"
+        },
+        {
+          "key": "Application",
+          "value": "Commercial/Industrial/Microgrid",
+          "unit": ""
+        },
+        {
+          "key": "Intelligence",
+          "value": "High",
+          "unit": ""
+        }
+      ],
+      "targetMarkets": [
+        "Large facilities",
+        "Commercial and industrial users",
+        "Microgrid projects"
+      ],
+      "features": [
+        "Microgrid management",
+        "Intelligent dispatch",
+        "Load balancing",
+        "Remote monitoring"
+      ],
+      "priority": "high",
+      "budget": 3000000,
+      "actualCost": 2500000,
+      "riskLevel": "high",
+      "dependencies": [
+        "Intelligent algorithms",
+        "Communication protocols"
+      ],
+      "stakeholders": [
+        "Commercial and industrial team",
+        "System integrators"
+      ],
+      "notes": "High-end product line with high technical complexity",
+      "metadata": {},
+      "alignmentCount": 4,
+      "averageStrength": 60,
+      "alignments": [
+        {
+          "id": "align_1756023037536_6kvuls",
+          "sourceType": "product",
+          "strength": 90,
+          "benefits": [
+            "Four-level monitoring perfect match",
+            "Improve system reliability",
+            "Reduce operation and maintenance costs",
+            "Enhance system competitiveness"
+          ],
+          "challenges": [
+            "Requires deep technical coordination",
+            "High data integration requirements",
+            "Operation and maintenance team training needed"
+          ]
+        },
+        {
+          "id": "align_1756023037536_150nr9",
+          "sourceType": "product",
+          "strength": 50,
+          "benefits": [],
+          "challenges": []
+        },
+        {
+          "id": "align_1756023037536_1b5esr",
+          "sourceType": "product",
+          "strength": 50,
+          "benefits": [],
+          "challenges": []
+        },
+        {
+          "id": "align_1756023037536_1thrjl",
+          "sourceType": "product",
+          "strength": 50,
+          "benefits": [],
+          "challenges": []
+        }
+      ],
+      "id": "product_1754634282074_botzrv",
+      "createdBy": "user",
+      "updatedBy": "user",
+      "updatedAt": "2025-08-24T09:57:14.868Z"
+    },
+    {
+      "name": "OffGrid Pro 10K",
+      "description": "Off-grid energy storage system for remote areas and special application scenarios",
+      "mainCategory": "Product Line",
+      "subCategory": "Off-grid",
+      "status": "launch",
+      "progress": 60,
+      "responsibleTeam": "Off-grid Energy Storage Team",
+      "startDate": "2024-03-01",
+      "expectedCompletionDate": "2024-12-31",
+      "specifications": [
+        {
+          "key": "Power",
+          "value": "3-10kW",
+          "unit": "kW"
+        },
+        {
+          "key": "Application",
+          "value": "Residential off-grid/Commercial off-grid",
+          "unit": ""
+        },
+        {
+          "key": "Reliability",
+          "value": "High",
+          "unit": ""
+        }
+      ],
+      "targetMarkets": [
+        "Remote areas",
+        "Emergency scenarios",
+        "Islands"
+      ],
+      "features": [
+        "Fast response",
+        "Intelligent algorithms",
+        "Remote monitoring",
+        "High reliability"
+      ],
+      "priority": "medium",
+      "budget": 1800000,
+      "actualCost": 1200000,
+      "riskLevel": "high",
+      "dependencies": [
+        "Off-grid AI algorithms",
+        "Remote monitoring system"
+      ],
+      "stakeholders": [
+        "Technical team",
+        "Off-grid sales team"
+      ],
+      "notes": "Need to strengthen reliability AI, current alignment 60%",
+      "metadata": {},
+      "alignmentCount": 1,
+      "averageStrength": 85,
+      "alignments": [
+        {
+          "id": "align_1756023037536_41zsgn",
+          "sourceType": "product",
+          "strength": 85,
+          "benefits": [
+            "Improve system reliability",
+            "Optimize energy dispatch",
+            "Reduce failure rate",
+            "Enhance system competitiveness"
+          ],
+          "challenges": [
+            "High algorithm optimization requirements",
+            "Requires large amounts of data training",
+            "Continuous optimization needed"
+          ]
+        }
+      ],
+      "id": "product_1754634282075_1igatc",
+      "createdBy": "user",
+      "updatedBy": "user",
+      "updatedAt": "2025-08-24T09:57:44.271Z"
+    },
+    {
+      "name": "QuickUpdate OTA",
+      "description": "OTA firmware management system supporting remote firmware upgrades",
+      "mainCategory": "Platform",
+      "subCategory": "Intelligent Control",
+      "status": "development",
+      "progress": 75,
+      "responsibleTeam": "Software R&D Department",
+      "startDate": "2024-01-01",
+      "expectedCompletionDate": "2024-06-30",
+      "specifications": [
+        {
+          "key": "Platform",
+          "value": "OTA firmware management",
+          "unit": ""
+        },
+        {
+          "key": "Supported devices",
+          "value": "Full series of energy storage products",
+          "unit": ""
+        },
+        {
+          "key": "Security",
+          "value": "Encrypted transmission",
+          "unit": ""
+        }
+      ],
+      "targetMarkets": [
+        "All energy storage product users"
+      ],
+      "features": [
+        "Rollback functionality",
+        "Security verification",
+        "Version management",
+        "Remote upgrade"
+      ],
+      "priority": "high",
+      "budget": 800000,
+      "actualCost": 600000,
+      "riskLevel": "medium",
+      "dependencies": [
+        "Cloud platform",
+        "Device communication protocols"
+      ],
+      "stakeholders": [
+        "Hardware team",
+        "Software team"
+      ],
+      "notes": "Supporting \"high cost-effectiveness\" strategy, achieving excellent operations",
+      "metadata": {},
+      "alignmentCount": 6,
+      "averageStrength": 81,
+      "alignments": [
+        {
+          "id": "align_1756023037535_5wlvb9",
+          "sourceType": "product",
+          "strength": 90,
+          "benefits": [
+            "Improve product reliability",
+            "Reduce maintenance costs",
+            "Quick problem resolution",
+            "Enhance product competitiveness"
+          ],
+          "challenges": [
+            "Requires stable network environment",
+            "Upgrade process needs security measures",
+            "User training required"
+          ]
+        },
+        {
+          "id": "align_1756023037536_9fbhtm",
+          "sourceType": "product",
+          "strength": 85,
+          "benefits": [
+            "Improve product reliability",
+            "Reduce maintenance costs",
+            "Quick problem resolution",
+            "Enhance product competitiveness"
+          ],
+          "challenges": [
+            "Requires stable network environment",
+            "Upgrade process needs security measures",
+            "User training required"
+          ]
+        },
+        {
+          "id": "align_1756023037536_5mt3vx",
+          "sourceType": "product",
+          "strength": 80,
+          "benefits": [
+            "Remote"
+          ],
+          "challenges": []
+        },
+        {
+          "id": "align_1756023037536_76iihv",
+          "sourceType": "product",
+          "strength": 90,
+          "benefits": [],
+          "challenges": []
+        },
+        {
+          "id": "align_1756023037537_d1vvp8",
+          "sourceType": "product",
+          "strength": 90,
+          "benefits": [],
+          "challenges": []
+        },
+        {
+          "id": "align_1756023037537_jeq8qb",
+          "sourceType": "product",
+          "strength": 50,
+          "benefits": [],
+          "challenges": []
+        }
+      ],
+      "id": "product_1754634282075_yarc0k",
+      "createdBy": "user",
+      "updatedBy": "user",
+      "updatedAt": "2025-08-24T09:57:33.055Z"
+    },
+    {
+      "name": "EnergyConnect App",
+      "description": "Mobile app redesign to optimize user experience",
+      "mainCategory": "Platform",
+      "subCategory": "Intelligent Control",
+      "status": "launch",
+      "progress": 65,
+      "responsibleTeam": "Mobile Team",
+      "startDate": "2024-01-15",
+      "expectedCompletionDate": "2024-07-31",
+      "specifications": [
+        {
+          "key": "Platform",
+          "value": "iOS/Android",
+          "unit": ""
+        },
+        {
+          "key": "User Experience",
+          "value": "Optimized",
+          "unit": ""
+        },
+        {
+          "key": "Functionality",
+          "value": "Monitoring/Control",
+          "unit": ""
+        }
+      ],
+      "targetMarkets": [
+        "All energy storage product users"
+      ],
+      "features": [
+        "Real-time monitoring",
+        "Data visualization",
+        "User-friendly",
+        "Remote control"
+      ],
+      "priority": "medium",
+      "budget": 600000,
+      "actualCost": 400000,
+      "riskLevel": "low",
+      "dependencies": [
+        "Cloud platform",
+        "Device API"
+      ],
+      "stakeholders": [
+        "Product team",
+        "Users"
+      ],
+      "notes": "Empower users and installers, improve user experience",
+      "metadata": {},
+      "alignmentCount": 3,
+      "averageStrength": 82,
+      "alignments": [
+        {
+          "id": "align_1756023037536_gq576d",
+          "sourceType": "product",
+          "strength": 85,
+          "benefits": [
+            "Improve user experience",
+            "Enhance product usability",
+            "Lower user barriers",
+            "Expand market acceptance"
+          ],
+          "challenges": [
+            "Need to adapt to multiple devices",
+            "High user experience requirements",
+            "Continuous optimization needed"
+          ]
+        },
+        {
+          "id": "align_1756023037536_ffpdqk",
+          "sourceType": "product",
+          "strength": 80,
+          "benefits": [
+            "Improve user experience",
+            "Enhance product usability",
+            "Lower user barriers",
+            "Expand market acceptance"
+          ],
+          "challenges": [
+            "Need to adapt to multiple devices",
+            "High user experience requirements",
+            "Continuous optimization needed"
+          ]
+        },
+        {
+          "id": "align_1756023037536_xmjbek",
+          "sourceType": "product",
+          "strength": 80,
+          "benefits": [
+            "Improve user experience",
+            "Enhance product competitiveness",
+            "Lower user barriers",
+            "Expand market acceptance"
+          ],
+          "challenges": [
+            "Need to adapt to multiple devices",
+            "High user experience requirements",
+            "Continuous optimization needed"
+          ]
+        }
+      ],
+      "id": "product_1754634282075_fd49sm",
+      "createdBy": "user",
+      "updatedBy": "user",
+      "updatedAt": "2025-08-24T09:57:39.424Z"
+    },
+    {
+      "name": "SmartGrid AI",
+      "description": "Virtual Power Plant intelligent dispatch system supporting dynamic electricity price optimization",
+      "mainCategory": "Platform",
+      "subCategory": "AI Intelligent Engine",
+      "status": "launch",
+      "progress": 100,
+      "responsibleTeam": "AI Algorithm Team",
+      "startDate": "2023-09-01",
+      "expectedCompletionDate": "2024-03-15",
+      "specifications": [
+        {
+          "key": "Algorithm",
+          "value": "Dynamic electricity price optimization",
+          "unit": ""
+        },
+        {
+          "key": "Application",
+          "value": "VPP dispatch",
+          "unit": ""
+        },
+        {
+          "key": "Revenue",
+          "value": "Maximized",
+          "unit": ""
+        }
+      ],
+      "targetMarkets": [
+        "Commercial and industrial users",
+        "Residential energy storage users"
+      ],
+      "features": [
+        "Dynamic dispatch",
+        "Revenue maximization",
+        "Intelligent decision-making",
+        "Electricity price optimization"
+      ],
+      "priority": "high",
+      "budget": 1200000,
+      "actualCost": 1100000,
+      "riskLevel": "medium",
+      "dependencies": [
+        "Energy storage devices",
+        "Electricity price data"
+      ],
+      "stakeholders": [
+        "AI team",
+        "Users"
+      ],
+      "notes": "Already launched, highly aligned with residential energy storage, alignment 95%",
+      "metadata": {},
+      "alignmentCount": 3,
+      "averageStrength": 87,
+      "alignments": [
+        {
+          "id": "align_1756023037536_2psglp",
+          "sourceType": "product",
+          "strength": 95,
+          "benefits": [
+            "Maximize user benefits",
+            "Enhance product value",
+            "Strengthen market competitiveness",
+            "Support grid balance"
+          ],
+          "challenges": [
+            "Requires electricity price data access",
+            "High algorithm optimization requirements",
+            "User authorization needed"
+          ]
+        },
+        {
+          "id": "align_1756023037536_5mdwn2",
+          "sourceType": "product",
+          "strength": 90,
+          "benefits": [
+            "Maximize user benefits",
+            "Enhance product value",
+            "Strengthen market competitiveness",
+            "Support grid balance"
+          ],
+          "challenges": [
+            "Requires electricity price data access",
+            "High algorithm optimization requirements",
+            "User authorization needed"
+          ]
+        },
+        {
+          "id": "align_1756023037536_h2h34t",
+          "sourceType": "product",
+          "strength": 75,
+          "benefits": [
+            "Provide revenue optimization services",
+            "Enhance product competitiveness",
+            "Support grid balance",
+            "Create new value"
+          ],
+          "challenges": [
+            "Requires electricity price data access",
+            "High algorithm optimization requirements",
+            "User authorization needed"
+          ]
+        }
+      ],
+      "id": "product_1754634282075_j5balu",
+      "createdBy": "user",
+      "updatedBy": "user",
+      "updatedAt": "2025-08-24T09:56:47.346Z"
+    },
+    {
+      "name": "ProMonitor 4L",
+      "description": "Commercial and industrial energy storage monitoring system providing four-level monitoring functionality",
+      "mainCategory": "Platform",
+      "subCategory": "Intelligent Control",
+      "status": "testing",
+      "progress": 80,
+      "responsibleTeam": "Commercial Energy Storage Team",
+      "startDate": "2024-02-01",
+      "expectedCompletionDate": "2024-08-31",
+      "specifications": [
+        {
+          "key": "Monitoring Level",
+          "value": "Four-level monitoring",
+          "unit": ""
+        },
+        {
+          "key": "Application",
+          "value": "Commercial and industrial energy storage",
+          "unit": ""
+        },
+        {
+          "key": "Data Processing",
+          "value": "Real-time",
+          "unit": ""
+        }
+      ],
+      "targetMarkets": [
+        "Commercial and industrial users",
+        "System integrators"
+      ],
+      "features": [
+        "Four-level monitoring",
+        "Real-time data",
+        "Alarm system",
+        "Data analysis"
+      ],
+      "priority": "high",
+      "budget": 1000000,
+      "actualCost": 800000,
+      "riskLevel": "medium",
+      "dependencies": [
+        "WIT intelligent system",
+        "Data collection"
+      ],
+      "stakeholders": [
+        "Commercial and industrial team",
+        "Operation and maintenance team"
+      ],
+      "notes": "Deep integration with WIT system, perfect match for four-level monitoring",
+      "metadata": {},
+      "alignmentCount": 2,
+      "averageStrength": 70,
+      "alignments": [
+        {
+          "id": "align_1756023037536_6kvuls",
+          "sourceType": "product",
+          "strength": 90,
+          "benefits": [
+            "Four-level monitoring perfect match",
+            "Improve system reliability",
+            "Reduce operation and maintenance costs",
+            "Enhance system competitiveness"
+          ],
+          "challenges": [
+            "Requires deep technical coordination",
+            "High data integration requirements",
+            "Operation and maintenance team training needed"
+          ]
+        },
+        {
+          "id": "align_1756023037536_xe49cf",
+          "sourceType": "product",
+          "strength": 50,
+          "benefits": [],
+          "challenges": []
+        }
+      ],
+      "id": "product_1754634282075_y6cygk",
+      "createdBy": "user",
+      "updatedBy": "user",
+      "updatedAt": "2025-08-24T09:57:24.255Z"
+    },
+    {
+      "name": "OffGrid AI Core",
+      "description": "Off-grid energy storage intelligent algorithms to improve system reliability and efficiency",
+      "mainCategory": "Platform",
+      "subCategory": "AI Intelligent Engine",
+      "status": "testing",
+      "progress": 70,
+      "responsibleTeam": "AI Algorithm Team",
+      "startDate": "2024-04-01",
+      "expectedCompletionDate": "2024-11-30",
+      "specifications": [
+        {
+          "key": "Algorithm Type",
+          "value": "Off-grid optimization",
+          "unit": ""
+        },
+        {
+          "key": "Reliability",
+          "value": "High",
+          "unit": ""
+        },
+        {
+          "key": "Response Speed",
+          "value": "Fast",
+          "unit": ""
+        }
+      ],
+      "targetMarkets": [
+        "Remote areas",
+        "Off-grid users"
+      ],
+      "features": [
+        "Fault prediction",
+        "Intelligent dispatch",
+        "Energy efficiency optimization",
+        "Adaptive control"
+      ],
+      "priority": "high",
+      "budget": 900000,
+      "actualCost": 700000,
+      "riskLevel": "medium",
+      "dependencies": [
+        "SPF off-grid system",
+        "Data training"
+      ],
+      "stakeholders": [
+        "AI team",
+        "Off-grid team"
+      ],
+      "notes": "Optimized for off-grid scenarios, improve system reliability",
+      "metadata": {},
+      "alignmentCount": 1,
+      "averageStrength": 85,
+      "alignments": [
+        {
+          "id": "align_1756023037536_41zsgn",
+          "sourceType": "product",
+          "strength": 85,
+          "benefits": [
+            "Improve system reliability",
+            "Optimize energy dispatch",
+            "Reduce failure rate",
+            "Enhance system competitiveness"
+          ],
+          "challenges": [
+            "High algorithm optimization requirements",
+            "Requires large amounts of data training",
+            "Continuous optimization needed"
+          ]
+        }
+      ],
+      "id": "product_1754634282075_plratp",
+      "createdBy": "user",
+      "updatedBy": "user",
+      "updatedAt": "2025-08-24T09:57:48.691Z"
+    },
+    {
+      "name": "CoolFlow 260H",
+      "description": "Advanced liquid-cooled energy storage system with 260kWh capacity for industrial applications",
+      "mainCategory": "Product Line",
+      "subCategory": "BESS",
+      "status": "testing",
+      "progress": 100,
+      "responsibleTeam": "Advanced Storage Team",
+      "startDate": "2025-01-15",
+      "expectedCompletionDate": "2025-12-30",
+      "specifications": [
+        {
+          "key": "Capacity",
+          "value": "260kWh",
+          "unit": "kWh"
+        },
+        {
+          "key": "Cooling System",
+          "value": "Liquid cooling",
+          "unit": ""
+        },
+        {
+          "key": "Operating Temperature",
+          "value": "-20°C to +50°C",
+          "unit": "°C"
+        }
+      ],
+      "targetMarkets": [
+        "Industrial facilities",
+        "Data centers",
+        "Large commercial complexes"
+      ],
+      "features": [
+        "Advanced liquid cooling",
+        "High energy density",
+        "Temperature management",
+        "Modular design"
+      ],
+      "priority": "medium",
+      "budget": 5000000,
+      "actualCost": 0,
+      "riskLevel": "medium",
+      "dependencies": [
+        "Cooling system technology",
+        "Industrial installation infrastructure"
+      ],
+      "stakeholders": [
+        "Industrial sales team",
+        "Engineering team"
+      ],
+      "notes": "Next-generation liquid cooling technology for high-capacity storage",
+      "metadata": {},
+      "alignmentCount": 1,
+      "averageStrength": 50,
+      "alignments": [
+        {
+          "id": "align_1756023037536_xe49cf",
+          "sourceType": "product",
+          "strength": 50,
+          "benefits": [],
+          "challenges": []
+        }
+      ],
+      "id": "product_1754920415358_4j6f10",
+      "createdBy": "user",
+      "updatedBy": "user",
+      "updatedAt": "2025-08-24T09:53:23.619Z"
+    },
+    {
+      "name": "HomeGuard 1.0",
+      "description": "Entry-level residential energy storage system with basic protection and monitoring features",
+      "mainCategory": "Product Line",
+      "subCategory": "HomeESS",
+      "status": "launch",
+      "progress": 0,
+      "responsibleTeam": "Residential Storage Team",
+      "startDate": "2025-02-01",
+      "expectedCompletionDate": "2025-10-30",
+      "specifications": [
+        {
+          "key": "Capacity",
+          "value": "5-10kWh",
+          "unit": "kWh"
+        },
+        {
+          "key": "Voltage",
+          "value": "48V",
+          "unit": "V"
+        },
+        {
+          "key": "Installation",
+          "value": "Indoor/Outdoor",
+          "unit": ""
+        }
+      ],
+      "targetMarkets": [
+        "Entry-level residential users",
+        "Budget-conscious homeowners",
+        "First-time energy storage buyers"
+      ],
+      "features": [
+        "Basic energy storage",
+        "Safety protection",
+        "Simple monitoring",
+        "Easy installation"
+      ],
+      "priority": "medium",
+      "budget": 1200000,
+      "actualCost": 0,
+      "riskLevel": "low",
+      "dependencies": [
+        "Battery technology",
+        "Basic control system"
+      ],
+      "stakeholders": [
+        "Residential sales team",
+        "Entry-level market team"
+      ],
+      "notes": "Entry-level product targeting price-sensitive residential market",
+      "metadata": {},
+      "alignmentCount": 5,
+      "averageStrength": 56,
+      "alignments": [
+        {
+          "id": "align_1756023037536_s0022f",
+          "sourceType": "product",
+          "strength": 50,
+          "benefits": [],
+          "challenges": []
+        },
+        {
+          "id": "align_1756023037536_l386xm",
+          "sourceType": "product",
+          "strength": 80,
+          "benefits": [
+            "Support mixed use of old and new",
+            "Support mixed use of different SOC"
+          ],
+          "challenges": [
+            "Cost too high",
+            "Complex system design (BDC)",
+            "Efficiency impact"
+          ]
+        },
+        {
+          "id": "align_1756023037537_jeq8qb",
+          "sourceType": "product",
+          "strength": 50,
+          "benefits": [],
+          "challenges": []
+        },
+        {
+          "id": "align_1756023037538_9jkk15",
+          "sourceType": "product",
+          "strength": 50,
+          "benefits": [],
+          "challenges": []
+        },
+        {
+          "id": "align_1756023037538_8w8m9g",
+          "sourceType": "product",
+          "strength": 50,
+          "benefits": [],
+          "challenges": []
+        }
+      ],
+      "id": "product_1754923825924_tmgl8b",
+      "createdBy": "user",
+      "updatedBy": "user",
+      "updatedAt": "2025-08-24T09:58:06.386Z"
+    },
+    {
+      "name": "HomeGuard Pro",
+      "description": "Advanced residential energy storage system with enhanced features and intelligent management",
+      "mainCategory": "Product Line",
+      "subCategory": "HomeESS",
+      "status": "testing",
+      "progress": 0,
+      "responsibleTeam": "Residential Storage Team",
+      "startDate": "2025-03-01",
+      "expectedCompletionDate": "2025-11-30",
+      "specifications": [
+        {
+          "key": "Capacity",
+          "value": "10-20kWh",
+          "unit": "kWh"
+        },
+        {
+          "key": "Voltage",
+          "value": "400V",
+          "unit": "V"
+        },
+        {
+          "key": "Efficiency",
+          "value": ">95%",
+          "unit": "%"
+        }
+      ],
+      "targetMarkets": [
+        "High-end residential users",
+        "Smart home enthusiasts",
+        "Energy-conscious homeowners"
+      ],
+      "features": [
+        "Intelligent energy management",
+        "Advanced safety protection",
+        "Smart grid integration",
+        "Mobile app control"
+      ],
+      "priority": "high",
+      "budget": 1800000,
+      "actualCost": 0,
+      "riskLevel": "medium",
+      "dependencies": [
+        "Advanced battery technology",
+        "Smart control algorithms"
+      ],
+      "stakeholders": [
+        "Premium residential team",
+        "Smart home partners"
+      ],
+      "notes": "Premium residential product with advanced features and cost optimization",
+      "metadata": {},
+      "alignmentCount": 2,
+      "averageStrength": 85,
+      "alignments": [
+        {
+          "id": "align_1756023037536_dvj7f4",
+          "sourceType": "product",
+          "strength": 80,
+          "benefits": [
+            "Good cost-effectiveness"
+          ],
+          "challenges": [
+            "Time to market"
+          ]
+        },
+        {
+          "id": "align_1756023037537_nz1laz",
+          "sourceType": "product",
+          "strength": 90,
+          "benefits": [],
+          "challenges": []
+        }
+      ],
+      "id": "product_1754923836794_6i5d0w",
+      "createdBy": "user",
+      "updatedBy": "user",
+      "updatedAt": "2025-08-24T09:55:18.951Z"
+    },
+    {
+      "name": "SmartHome LP",
+      "description": "Low-power residential energy storage system designed for basic home backup needs",
+      "mainCategory": "Product Line",
+      "subCategory": "HomeESS",
+      "status": "planning",
+      "progress": 0,
+      "responsibleTeam": "Residential Storage Team",
+      "startDate": "2025-04-01",
+      "expectedCompletionDate": "2025-12-15",
+      "specifications": [
+        {
+          "key": "Capacity",
+          "value": "2-8kWh",
+          "unit": "kWh"
+        },
+        {
+          "key": "Power",
+          "value": "3kW",
+          "unit": "kW"
+        },
+        {
+          "key": "Installation",
+          "value": "Plug-and-play",
+          "unit": ""
+        }
+      ],
+      "targetMarkets": [
+        "Small households",
+        "Backup power users",
+        "Cost-sensitive customers"
+      ],
+      "features": [
+        "Compact design",
+        "Easy installation",
+        "Basic backup power",
+        "Simple operation"
+      ],
+      "priority": "low",
+      "budget": 800000,
+      "actualCost": 0,
+      "riskLevel": "low",
+      "dependencies": [
+        "Compact battery design",
+        "Simple control interface"
+      ],
+      "stakeholders": [
+        "Basic residential team",
+        "Budget market segment"
+      ],
+      "notes": "Entry-level product for basic residential backup power needs",
+      "metadata": {},
+      "alignmentCount": 0,
+      "averageStrength": 0,
+      "alignments": [],
+      "id": "product_1754925121699_xqo3g8"
+    },
+    {
+      "name": "PowerAXE 50K",
+      "description": "Mid-range commercial energy storage system for medium-sized business applications",
+      "mainCategory": "Product Line",
+      "subCategory": "Small C&I ESS",
+      "status": "testing",
+      "progress": 0,
+      "responsibleTeam": "Commercial Energy Storage Team",
+      "startDate": "2025-05-01",
+      "expectedCompletionDate": "2026-02-28",
+      "specifications": [
+        {
+          "key": "Capacity",
+          "value": "50kWh",
+          "unit": "kWh"
+        },
+        {
+          "key": "Power",
+          "value": "25kW",
+          "unit": "kW"
+        },
+        {
+          "key": "Voltage",
+          "value": "1000V",
+          "unit": "V"
+        }
+      ],
+      "targetMarkets": [
+        "Medium commercial buildings",
+        "Manufacturing facilities",
+        "Distribution centers"
+      ],
+      "features": [
+        "Commercial-grade reliability",
+        "Load peak shaving",
+        "Energy arbitrage",
+        "Grid services capability"
+      ],
+      "priority": "medium",
+      "budget": 3500000,
+      "actualCost": 0,
+      "riskLevel": "medium",
+      "dependencies": [
+        "Commercial installation infrastructure",
+        "Grid integration protocols"
+      ],
+      "stakeholders": [
+        "Commercial sales team",
+        "Industrial customers"
+      ],
+      "notes": "Mid-tier commercial product for growing business energy needs",
+      "metadata": {},
+      "alignmentCount": 1,
+      "averageStrength": 50,
+      "alignments": [
+        {
+          "id": "align_1756023037536_150nr9",
+          "sourceType": "product",
+          "strength": 50,
+          "benefits": [],
+          "challenges": []
+        }
+      ],
+      "id": "product_1754993085391_pdtp1c",
+      "createdBy": "user",
+      "updatedBy": "user",
+      "updatedAt": "2025-08-24T09:58:22.184Z"
+    },
+    {
+      "name": "PowerACE 100K",
+      "description": "High-capacity commercial energy storage system for large-scale industrial applications",
+      "mainCategory": "Product Line",
+      "subCategory": "Small C&I ESS",
+      "status": "planning",
+      "progress": 0,
+      "responsibleTeam": "Commercial Energy Storage Team",
+      "startDate": "2025-06-01",
+      "expectedCompletionDate": "2026-03-31",
+      "specifications": [
+        {
+          "key": "Capacity",
+          "value": "100kWh",
+          "unit": "kWh"
+        },
+        {
+          "key": "Power",
+          "value": "50kW",
+          "unit": "kW"
+        },
+        {
+          "key": "Voltage",
+          "value": "1500V",
+          "unit": "V"
+        }
+      ],
+      "targetMarkets": [
+        "Large industrial facilities",
+        "Data centers",
+        "Utility-scale applications"
+      ],
+      "features": [
+        "High-capacity storage",
+        "Industrial-grade reliability",
+        "Advanced grid integration",
+        "Scalable architecture"
+      ],
+      "priority": "high",
+      "budget": 8000000,
+      "actualCost": 0,
+      "riskLevel": "high",
+      "dependencies": [
+        "Large-scale installation infrastructure",
+        "Advanced grid protocols"
+      ],
+      "stakeholders": [
+        "Industrial sales team",
+        "Utility partners"
+      ],
+      "notes": "High-capacity commercial product for large industrial energy needs",
+      "metadata": {},
+      "alignmentCount": 1,
+      "averageStrength": 50,
+      "alignments": [
+        {
+          "id": "align_1756023037536_1b5esr",
+          "sourceType": "product",
+          "strength": 50,
+          "benefits": [],
+          "challenges": []
+        }
+      ],
+      "id": "product_1754993092984_na8hse"
+    },
+    {
+      "name": "GridLink X1",
+      "description": "Advanced energy interconnection platform for smart grid and microgrid applications",
+      "mainCategory": "Platform",
+      "subCategory": "Energy Interconnection",
+      "status": "development",
+      "progress": 0,
+      "responsibleTeam": "Platform Development Team",
+      "startDate": "2025-07-01",
+      "expectedCompletionDate": "2026-04-30",
+      "specifications": [
+        {
+          "key": "Grid Standards",
+          "value": "IEEE 1547",
+          "unit": ""
+        },
+        {
+          "key": "Communication",
+          "value": "Multi-protocol",
+          "unit": ""
+        },
+        {
+          "key": "Scalability",
+          "value": "1000+ nodes",
+          "unit": "nodes"
+        }
+      ],
+      "targetMarkets": [
+        "Utility companies",
+        "Microgrid operators",
+        "Smart city projects"
+      ],
+      "features": [
+        "Multi-protocol support",
+        "Real-time monitoring",
+        "Grid stability control",
+        "Distributed energy management"
+      ],
+      "priority": "high",
+      "budget": 5000000,
+      "actualCost": 0,
+      "riskLevel": "high",
+      "dependencies": [
+        "Grid communication protocols",
+        "Regulatory compliance"
+      ],
+      "stakeholders": [
+        "Platform team",
+        "Utility partners"
+      ],
+      "notes": "Critical platform for smart grid infrastructure development",
+      "metadata": {},
+      "alignmentCount": 2,
+      "averageStrength": 67,
+      "alignments": [
+        {
+          "id": "align_1756023037536_1thrjl",
+          "sourceType": "product",
+          "strength": 50,
+          "benefits": [],
+          "challenges": []
+        },
+        {
+          "id": "align_1756023037537_duh47s",
+          "sourceType": "product",
+          "strength": 84,
+          "benefits": [],
+          "challenges": []
+        }
+      ],
+      "id": "product_1754993123031_ky01wf",
+      "createdBy": "user",
+      "updatedBy": "user",
+      "updatedAt": "2025-08-24T09:54:59.774Z"
+    },
+    {
+      "name": "HomeHub Manager",
+      "description": "Centralized home energy management platform for residential energy optimization",
+      "mainCategory": "Platform",
+      "subCategory": "Energy Interconnection",
+      "status": "testing",
+      "progress": 0,
+      "responsibleTeam": "Platform Development Team",
+      "startDate": "2025-08-01",
+      "expectedCompletionDate": "2026-05-31",
+      "specifications": [
+        {
+          "key": "Device Support",
+          "value": "100+ devices",
+          "unit": "devices"
+        },
+        {
+          "key": "Protocols",
+          "value": "WiFi/Zigbee",
+          "unit": ""
+        },
+        {
+          "key": "Users",
+          "value": "Multi-user",
+          "unit": ""
+        }
+      ],
+      "targetMarkets": [
+        "Smart home owners",
+        "Energy-conscious households",
+        "IoT device users"
+      ],
+      "features": [
+        "Device integration",
+        "Energy optimization",
+        "User management",
+        "Mobile app control"
+      ],
+      "priority": "medium",
+      "budget": 3000000,
+      "actualCost": 0,
+      "riskLevel": "medium",
+      "dependencies": [
+        "IoT device protocols",
+        "User interface design"
+      ],
+      "stakeholders": [
+        "Platform team",
+        "Smart home partners"
+      ],
+      "notes": "Residential energy management hub for smart home integration",
+      "metadata": {},
+      "alignmentCount": 3,
+      "averageStrength": 50,
+      "alignments": [
+        {
+          "id": "align_1756023037537_jdpfhz",
+          "sourceType": "product",
+          "strength": 50,
+          "benefits": [],
+          "challenges": []
+        },
+        {
+          "id": "align_1756023037537_xgxe9s",
+          "sourceType": "product",
+          "strength": 50,
+          "benefits": [],
+          "challenges": []
+        },
+        {
+          "id": "align_1756023037537_d71dme",
+          "sourceType": "product",
+          "strength": 50,
+          "benefits": [],
+          "challenges": []
+        }
+      ],
+      "id": "product_1754993164149_eo2qvt",
+      "createdBy": "user",
+      "updatedBy": "user",
+      "updatedAt": "2025-08-24T09:58:13.811Z"
+    },
+    {
+      "name": "MicroInverter Haly",
+      "description": "Microinverter NEO (Created by Dimension)",
+      "mainCategory": "Product Line",
+      "subCategory": "Residential Hybrid ɸ1",
+      "status": "launch",
+      "progress": 0,
+      "responsibleTeam": "Product Team",
+      "startDate": "2025-08-12",
+      "specifications": [],
+      "targetMarkets": [],
+      "features": [],
+      "priority": "medium",
+      "budget": 0,
+      "actualCost": 0,
+      "riskLevel": "medium",
+      "dependencies": [],
+      "stakeholders": [],
+      "notes": "",
+      "metadata": {},
+      "alignmentCount": 1,
+      "averageStrength": 50,
+      "alignments": [
+        {
+          "id": "align_1756023037537_jdpfhz",
+          "sourceType": "product",
+          "strength": 50,
+          "benefits": [],
+          "challenges": []
+        }
+      ],
+      "id": "product_1755005317018_hl7u6n",
+      "createdBy": "user",
+      "updatedBy": "user",
+      "updatedAt": "2025-08-24T09:56:03.008Z"
+    },
+    {
+      "name": "AutoDiag Pro",
+      "description": "One-Click Diagnosis (Strategic) (Created by Dimension)",
+      "mainCategory": "Platform",
+      "subCategory": "Intelligent Control",
+      "status": "launch",
+      "progress": 0,
+      "responsibleTeam": "Product Team",
+      "startDate": "2025-08-13",
+      "specifications": [],
+      "targetMarkets": [],
+      "features": [],
+      "priority": "medium",
+      "budget": 0,
+      "actualCost": 0,
+      "riskLevel": "medium",
+      "dependencies": [],
+      "stakeholders": [],
+      "notes": "",
+      "metadata": {},
+      "alignmentCount": 0,
+      "averageStrength": 0,
+      "alignments": [],
+      "id": "product_1755070061121_vsbz7q",
+      "createdBy": "user",
+      "updatedBy": "user",
+      "updatedAt": "2025-08-24T09:54:25.093Z"
+    },
+    {
+      "name": "AURA All-in-One",
+      "description": "AURA 5000 All-in-One New Product (Created by Dimension)",
+      "mainCategory": "Product Line",
+      "subCategory": "Power Supply R&D",
+      "status": "testing",
+      "progress": 0,
+      "responsibleTeam": "Product Team",
+      "startDate": "2025-08-13",
+      "specifications": [],
+      "targetMarkets": [],
+      "features": [],
+      "priority": "medium",
+      "budget": 0,
+      "actualCost": 0,
+      "riskLevel": "medium",
+      "dependencies": [],
+      "stakeholders": [],
+      "notes": "",
+      "metadata": {},
+      "alignmentCount": 0,
+      "averageStrength": 0,
+      "alignments": [],
+      "id": "product_1755070127299_jl7rl1"
+    },
+    {
+      "name": "WiFiLink X2",
+      "description": "ShineWiLan-X2 (Created by Dimension)",
+      "mainCategory": "Platform",
+      "subCategory": "Energy Interconnection",
+      "status": "planning",
+      "progress": 0,
+      "responsibleTeam": "Product Team",
+      "startDate": "2025-08-13",
+      "specifications": [],
+      "targetMarkets": [],
+      "features": [],
+      "priority": "medium",
+      "budget": 0,
+      "actualCost": 0,
+      "riskLevel": "medium",
+      "dependencies": [],
+      "stakeholders": [],
+      "notes": "",
+      "metadata": {},
+      "alignmentCount": 2,
+      "averageStrength": 70,
+      "alignments": [
+        {
+          "id": "align_1756023037536_76iihv",
+          "sourceType": "product",
+          "strength": 90,
+          "benefits": [],
+          "challenges": []
+        },
+        {
+          "id": "align_1756023037537_6oj1pk",
+          "sourceType": "product",
+          "strength": 50,
+          "benefits": [],
+          "challenges": []
+        }
+      ],
+      "id": "product_1755090458691_zo3a1h"
+    },
+    {
+      "name": "WiFi Bridge",
+      "description": "Shine-WiFi (Created by Dimension)",
+      "mainCategory": "Platform",
+      "subCategory": "Energy Interconnection",
+      "status": "planning",
+      "progress": 0,
+      "responsibleTeam": "Product Team",
+      "startDate": "2025-08-13",
+      "specifications": [],
+      "targetMarkets": [],
+      "features": [],
+      "priority": "medium",
+      "budget": 0,
+      "actualCost": 0,
+      "riskLevel": "medium",
+      "dependencies": [],
+      "stakeholders": [],
+      "notes": "",
+      "metadata": {},
+      "alignmentCount": 1,
+      "averageStrength": 90,
+      "alignments": [
+        {
+          "id": "align_1756023037537_d1vvp8",
+          "sourceType": "product",
+          "strength": 90,
+          "benefits": [],
+          "challenges": []
+        }
+      ],
+      "id": "product_1755090478061_jrcz3q"
+    },
+    {
+      "name": "EnergyShine App",
+      "description": "Shiner App (Created by Dimension)",
+      "mainCategory": "Platform",
+      "subCategory": "SaaS (Third Party)",
+      "status": "launch",
+      "progress": 0,
+      "responsibleTeam": "Product Team",
+      "startDate": "2025-08-13",
+      "specifications": [],
+      "targetMarkets": [],
+      "features": [],
+      "priority": "medium",
+      "budget": 0,
+      "actualCost": 0,
+      "riskLevel": "medium",
+      "dependencies": [],
+      "stakeholders": [],
+      "notes": "",
+      "metadata": {},
+      "alignmentCount": 1,
+      "averageStrength": 90,
+      "alignments": [
+        {
+          "id": "align_1756023037537_o7wakm",
+          "sourceType": "product",
+          "strength": 90,
+          "benefits": [],
+          "challenges": []
+        }
+      ],
+      "id": "product_1755099574151_xp5jpu",
+      "createdBy": "user",
+      "updatedBy": "user",
+      "updatedAt": "2025-08-24T09:54:51.089Z"
+    },
+    {
+      "name": "DataLog Pro",
+      "description": "FUDA Datalogger (Created by Dimension)",
+      "mainCategory": "Platform",
+      "subCategory": "SaaS (Third Party)",
+      "status": "launch",
+      "progress": 0,
+      "responsibleTeam": "Product Team",
+      "startDate": "2025-08-13",
+      "specifications": [],
+      "targetMarkets": [],
+      "features": [],
+      "priority": "medium",
+      "budget": 0,
+      "actualCost": 0,
+      "riskLevel": "medium",
+      "dependencies": [],
+      "stakeholders": [],
+      "notes": "",
+      "metadata": {},
+      "alignmentCount": 1,
+      "averageStrength": 90,
+      "alignments": [
+        {
+          "id": "align_1756023037537_951kga",
+          "sourceType": "product",
+          "strength": 90,
+          "benefits": [],
+          "challenges": []
+        }
+      ],
+      "id": "product_1755099594050_a1hrse",
+      "createdBy": "user",
+      "updatedBy": "user",
+      "updatedAt": "2025-08-24T09:58:27.501Z"
+    },
+    {
+      "name": "WebPortal Plus",
+      "description": "FUDA WebPortal (Created by Dimension)",
+      "mainCategory": "Platform",
+      "subCategory": "SaaS (Third Party)",
+      "status": "planning",
+      "progress": 0,
+      "responsibleTeam": "Product Team",
+      "startDate": "2025-08-13",
+      "specifications": [],
+      "targetMarkets": [],
+      "features": [],
+      "priority": "medium",
+      "budget": 0,
+      "actualCost": 0,
+      "riskLevel": "medium",
+      "dependencies": [],
+      "stakeholders": [],
+      "notes": "",
+      "metadata": {},
+      "alignmentCount": 1,
+      "averageStrength": 50,
+      "alignments": [
+        {
+          "id": "align_1756023037537_4qxv88",
+          "sourceType": "product",
+          "strength": 50,
+          "benefits": [],
+          "challenges": []
+        }
+      ],
+      "id": "product_1755099615337_bsqywd"
+    },
+    {
+      "name": "OpenAPI Gateway",
+      "description": "FUDA API (Created by Dimension)",
+      "mainCategory": "Platform",
+      "subCategory": "SaaS (Third Party)",
+      "status": "planning",
+      "progress": 0,
+      "responsibleTeam": "Product Team",
+      "startDate": "2025-08-13",
+      "specifications": [],
+      "targetMarkets": [],
+      "features": [],
+      "priority": "medium",
+      "budget": 0,
+      "actualCost": 0,
+      "riskLevel": "medium",
+      "dependencies": [],
+      "stakeholders": [],
+      "notes": "",
+      "metadata": {},
+      "alignmentCount": 1,
+      "averageStrength": 50,
+      "alignments": [
+        {
+          "id": "align_1756023037537_ma2ttj",
+          "sourceType": "product",
+          "strength": 50,
+          "benefits": [],
+          "challenges": []
+        }
+      ],
+      "id": "product_1755099622369_0q3gyz"
+    },
+    {
+      "name": "EcoHome US 15K",
+      "description": "MIN-XH-US (Created by Dimension)",
+      "mainCategory": "Product Line",
+      "subCategory": "Residential Hybrid ɸ1",
+      "status": "launch",
+      "progress": 0,
+      "responsibleTeam": "Product Team",
+      "startDate": "2025-08-13",
+      "specifications": [],
+      "targetMarkets": [],
+      "features": [],
+      "priority": "medium",
+      "budget": 0,
+      "actualCost": 0,
+      "riskLevel": "medium",
+      "dependencies": [],
+      "stakeholders": [],
+      "notes": "",
+      "metadata": {},
+      "alignmentCount": 6,
+      "averageStrength": 63,
+      "alignments": [
+        {
+          "id": "align_1756023037537_o7wakm",
+          "sourceType": "product",
+          "strength": 90,
+          "benefits": [],
+          "challenges": []
+        },
+        {
+          "id": "align_1756023037537_951kga",
+          "sourceType": "product",
+          "strength": 90,
+          "benefits": [],
+          "challenges": []
+        },
+        {
+          "id": "align_1756023037537_4qxv88",
+          "sourceType": "product",
+          "strength": 50,
+          "benefits": [],
+          "challenges": []
+        },
+        {
+          "id": "align_1756023037537_ma2ttj",
+          "sourceType": "product",
+          "strength": 50,
+          "benefits": [],
+          "challenges": []
+        },
+        {
+          "id": "align_1756023037541_6csbw3",
+          "sourceType": "product",
+          "strength": 50,
+          "benefits": [],
+          "challenges": []
+        },
+        {
+          "id": "align_1756023037542_k9xbxy",
+          "sourceType": "product",
+          "strength": 50,
+          "benefits": [],
+          "challenges": []
+        }
+      ],
+      "id": "product_1755099650849_zdfeau"
+    },
+    {
+      "name": "GridWise 10K",
+      "description": "WIT 10K (Created by Dimension)",
+      "mainCategory": "Product Line",
+      "subCategory": "C&I ESS",
+      "status": "testing",
+      "progress": 0,
+      "responsibleTeam": "Product Team",
+      "startDate": "2025-08-13",
+      "specifications": [],
+      "targetMarkets": [],
+      "features": [],
+      "priority": "medium",
+      "budget": 0,
+      "actualCost": 0,
+      "riskLevel": "medium",
+      "dependencies": [],
+      "stakeholders": [],
+      "notes": "",
+      "metadata": {},
+      "alignmentCount": 1,
+      "averageStrength": 50,
+      "alignments": [
+        {
+          "id": "align_1756023037537_6oj1pk",
+          "sourceType": "product",
+          "strength": 50,
+          "benefits": [],
+          "challenges": []
+        }
+      ],
+      "id": "product_1755100166873_g0v2vk",
+      "createdBy": "user",
+      "updatedBy": "user",
+      "updatedAt": "2025-08-24T09:55:03.938Z"
+    },
+    {
+      "name": "GridWise 50K",
+      "description": "WIT 30-50K (Created by Dimension)",
+      "mainCategory": "Product Line",
+      "subCategory": "C&I ESS",
+      "status": "testing",
+      "progress": 0,
+      "responsibleTeam": "Product Team",
+      "startDate": "2025-08-13",
+      "specifications": [],
+      "targetMarkets": [],
+      "features": [],
+      "priority": "medium",
+      "budget": 0,
+      "actualCost": 0,
+      "riskLevel": "medium",
+      "dependencies": [],
+      "stakeholders": [],
+      "notes": "",
+      "metadata": {},
+      "alignmentCount": 1,
+      "averageStrength": 84,
+      "alignments": [
+        {
+          "id": "align_1756023037537_duh47s",
+          "sourceType": "product",
+          "strength": 84,
+          "benefits": [],
+          "challenges": []
+        }
+      ],
+      "id": "product_1755100176749_8y1zmi",
+      "createdBy": "user",
+      "updatedBy": "user",
+      "updatedAt": "2025-08-24T09:55:07.731Z"
+    },
+    {
+      "name": "DACH Market",
+      "description": "Detailed description of German-speaking region",
+      "mainCategory": "Market",
+      "subCategory": "European Region",
+      "status": "maintenance",
+      "progress": 0,
+      "responsibleTeam": "Product Team",
+      "startDate": "2024-01-01",
+      "specifications": [],
+      "targetMarkets": [],
+      "features": [],
+      "priority": "medium",
+      "budget": 0,
+      "actualCost": 0,
+      "riskLevel": "medium",
+      "dependencies": [],
+      "stakeholders": [],
+      "notes": "",
+      "metadata": {},
+      "alignmentCount": 4,
+      "averageStrength": 50,
+      "alignments": [
+        {
+          "id": "align_1756023037537_c9djp2",
+          "sourceType": "product",
+          "strength": 50,
+          "benefits": [],
+          "challenges": []
+        },
+        {
+          "id": "align_1756023037538_x975y6",
+          "sourceType": "product",
+          "strength": 50,
+          "benefits": [],
+          "challenges": []
+        },
+        {
+          "id": "align_1756023037538_ou8jca",
+          "sourceType": "product",
+          "strength": 50,
+          "benefits": [],
+          "challenges": []
+        },
+        {
+          "id": "align_1756023037538_8w8m9g",
+          "sourceType": "product",
+          "strength": 50,
+          "benefits": [],
+          "challenges": []
+        }
+      ],
+      "id": "product_1755655031805_nqmdi68tc",
+      "createdBy": "user",
+      "updatedBy": "user",
+      "updatedAt": "2025-08-24T09:54:39.846Z"
+    },
+    {
+      "name": "North America",
+      "description": "Detailed description of USA/Canada",
+      "mainCategory": "Market",
+      "subCategory": "North American Region",
+      "status": "maintenance",
+      "progress": 0,
+      "responsibleTeam": "Product Team",
+      "startDate": "2024-02-01",
+      "specifications": [],
+      "targetMarkets": [],
+      "features": [],
+      "priority": "medium",
+      "budget": 0,
+      "actualCost": 0,
+      "riskLevel": "medium",
+      "dependencies": [],
+      "stakeholders": [],
+      "notes": "",
+      "metadata": {},
+      "alignmentCount": 2,
+      "averageStrength": 50,
+      "alignments": [
+        {
+          "id": "align_1756023037540_7osfn7",
+          "sourceType": "product",
+          "strength": 50,
+          "benefits": [],
+          "challenges": []
+        },
+        {
+          "id": "align_1756023037541_6csbw3",
+          "sourceType": "product",
+          "strength": 50,
+          "benefits": [],
+          "challenges": []
+        }
+      ],
+      "id": "product_1755655235501_lw8eod5y0",
+      "createdBy": "user",
+      "updatedBy": "user",
+      "updatedAt": "2025-08-24T09:56:09.823Z"
+    },
+    {
+      "name": "APAC & MEA",
+      "description": "Detailed description of Asia-Africa-Middle East",
+      "mainCategory": "Market",
+      "subCategory": "Asia-Africa-Middle East Region",
+      "status": "maintenance",
+      "progress": 0,
+      "responsibleTeam": "Product Team",
+      "startDate": "2024-03-01",
+      "specifications": [],
+      "targetMarkets": [],
+      "features": [],
+      "priority": "medium",
+      "budget": 0,
+      "actualCost": 0,
+      "riskLevel": "medium",
+      "dependencies": [],
+      "stakeholders": [],
+      "notes": "",
+      "metadata": {},
+      "alignmentCount": 0,
+      "averageStrength": 0,
+      "alignments": [],
+      "id": "product_1755655331134_3pz7yrmha"
+    },
+    {
+      "name": "UN38.3",
+      "description": "Detailed description of UN38.3",
+      "mainCategory": "Certification Compliance",
+      "subCategory": "Battery",
+      "status": "planning",
+      "progress": 0,
+      "responsibleTeam": "Product Team",
+      "startDate": "2024-04-01",
+      "specifications": [],
+      "targetMarkets": [],
+      "features": [],
+      "priority": "medium",
+      "budget": 0,
+      "actualCost": 0,
+      "riskLevel": "medium",
+      "dependencies": [],
+      "stakeholders": [],
+      "notes": "",
+      "metadata": {},
+      "alignmentCount": 2,
+      "averageStrength": 50,
+      "alignments": [
+        {
+          "id": "align_1756023037538_9jkk15",
+          "sourceType": "product",
+          "strength": 50,
+          "benefits": [],
+          "challenges": []
+        },
+        {
+          "id": "align_1756023037540_b0lxcz",
+          "sourceType": "product",
+          "strength": 50,
+          "benefits": [],
+          "challenges": []
+        }
+      ],
+      "id": "product_1755655350474_dyumlwb3t"
+    },
+    {
+      "name": "AI Pro Engine",
+      "subCategory": "AI Intelligent Engine",
+      "mainCategory": "Platform",
+      "status": "testing",
+      "progress": 74,
+      "description": "",
+      "responsibleTeam": "AI Algorithm Team",
+      "startDate": "2024-05-01",
+      "expectedCompletionDate": "2025-10-31",
+      "targetMarkets": [],
+      "features": [],
+      "specifications": [],
+      "priority": "medium",
+      "budget": 0,
+      "actualCost": 0,
+      "riskLevel": "medium",
+      "dependencies": [],
+      "stakeholders": [],
+      "notes": "",
+      "metadata": {},
+      "alignmentCount": 1,
+      "averageStrength": 50,
+      "alignments": [
+        {
+          "id": "align_1756023037538_rni6au",
+          "sourceType": "product",
+          "strength": 50,
+          "benefits": [],
+          "challenges": []
+        }
+      ],
+      "id": "product_1755658562794_7gdd4e3p6"
+    },
+    {
+      "name": "UL9540A",
+      "subCategory": "Battery",
+      "mainCategory": "Certification Compliance",
+      "status": "launch",
+      "progress": 0,
+      "description": "",
+      "responsibleTeam": "产品团队",
+      "startDate": "2024-06-01",
+      "expectedCompletionDate": "2024-12-31",
+      "targetMarkets": [],
+      "features": [],
+      "specifications": [],
+      "priority": "medium",
+      "budget": 0,
+      "actualCost": 0,
+      "riskLevel": "medium",
+      "dependencies": [],
+      "stakeholders": [],
+      "notes": "",
+      "metadata": {},
+      "alignmentCount": 1,
+      "averageStrength": 50,
+      "alignments": [
+        {
+          "id": "align_1756023037538_6156ro",
+          "sourceType": "product",
+          "strength": 50,
+          "benefits": [],
+          "challenges": []
+        }
+      ],
+      "id": "product_1755660902457_9ww5z7izk",
+      "createdBy": "user",
+      "updatedBy": "user",
+      "updatedAt": "2025-08-24T09:59:57.504Z"
+    },
+    {
+      "name": "UL1741",
+      "subCategory": "Battery",
+      "mainCategory": "Certification Compliance",
+      "status": "planning",
+      "progress": 0,
+      "description": "",
+      "responsibleTeam": "产品团队",
+      "startDate": "2024-07-01",
+      "expectedCompletionDate": "2025-06-30",
+      "targetMarkets": [],
+      "features": [],
+      "specifications": [],
+      "priority": "medium",
+      "budget": 0,
+      "actualCost": 0,
+      "riskLevel": "medium",
+      "dependencies": [],
+      "stakeholders": [],
+      "notes": "",
+      "metadata": {},
+      "alignmentCount": 1,
+      "averageStrength": 50,
+      "alignments": [
+        {
+          "id": "align_1756023037539_ce1bxd",
+          "sourceType": "product",
+          "strength": 50,
+          "benefits": [],
+          "challenges": []
+        }
+      ],
+      "id": "product_1755660915644_tsul9okoa"
+    },
+    {
+      "name": "HomeGuard US 1.0",
+      "subCategory": "HomeESS",
+      "mainCategory": "Product Line",
+      "status": "launch",
+      "progress": 100,
+      "description": "",
+      "responsibleTeam": "Residential Storage Team",
+      "startDate": "2024-08-01",
+      "expectedCompletionDate": "2025-04-30",
+      "targetMarkets": [],
+      "features": [],
+      "specifications": [],
+      "priority": "medium",
+      "budget": 0,
+      "actualCost": 0,
+      "riskLevel": "medium",
+      "dependencies": [],
+      "stakeholders": [],
+      "notes": "",
+      "metadata": {},
+      "alignmentCount": 4,
+      "averageStrength": 50,
+      "alignments": [
+        {
+          "id": "align_1756023037538_6156ro",
+          "sourceType": "product",
+          "strength": 50,
+          "benefits": [],
+          "challenges": []
+        },
+        {
+          "id": "align_1756023037539_ce1bxd",
+          "sourceType": "product",
+          "strength": 50,
+          "benefits": [],
+          "challenges": []
+        },
+        {
+          "id": "align_1756023037540_7osfn7",
+          "sourceType": "product",
+          "strength": 50,
+          "benefits": [],
+          "challenges": []
+        },
+        {
+          "id": "align_1756023037540_b0lxcz",
+          "sourceType": "product",
+          "strength": 50,
+          "benefits": [],
+          "challenges": []
+        }
+      ],
+      "id": "product_1755660984685_oiywb3iql",
+      "createdBy": "user",
+      "updatedBy": "user",
+      "updatedAt": "2025-08-24T09:55:23.518Z"
+    },
+    {
+      "name": "Japan Market",
+      "status": "planning",
+      "progress": 0,
+      "mainCategory": "Market",
+      "subCategory": "Japan Region",
+      "specifications": [],
+      "targetMarkets": [],
+      "responsibleTeam": "To be assigned",
+      "startDate": "2024-09-01",
+      "expectedCompletionDate": "2025-11-18",
+      "description": "Product: Japan",
+      "features": [],
+      "priority": "medium",
+      "budget": 0,
+      "actualCost": 0,
+      "riskLevel": "medium",
+      "dependencies": [],
+      "stakeholders": [],
+      "notes": "",
+      "metadata": {},
+      "createdAt": "2025-08-20T11:49:21.343Z",
+      "updatedAt": "2025-08-24T09:56:18.680Z",
+      "alignmentCount": 0,
+      "averageStrength": 0,
+      "alignments": [],
+      "id": "product_1755690561344_j5l5rslxf",
+      "createdBy": "user",
+      "updatedBy": "user"
+    },
+    {
+      "name": "Australia Market",
+      "status": "maintenance",
+      "progress": 0,
+      "mainCategory": "Market",
+      "subCategory": "Australia Region",
+      "specifications": [],
+      "targetMarkets": [],
+      "responsibleTeam": "To be assigned",
+      "startDate": "2024-10-01",
+      "expectedCompletionDate": "2025-11-18",
+      "description": "Product: AU",
+      "features": [],
+      "priority": "medium",
+      "budget": 0,
+      "actualCost": 0,
+      "riskLevel": "medium",
+      "dependencies": [],
+      "stakeholders": [],
+      "notes": "",
+      "metadata": {},
+      "createdAt": "2025-08-20T11:49:44.978Z",
+      "updatedAt": "2025-08-24T09:54:18.298Z",
+      "alignmentCount": 0,
+      "averageStrength": 0,
+      "alignments": [],
+      "id": "product_1755690584978_lnqf47iqz",
+      "createdBy": "user",
+      "updatedBy": "user"
+    },
+    {
+      "name": "China Market",
+      "status": "maintenance",
+      "progress": 0,
+      "mainCategory": "Market",
+      "subCategory": "Greater China Region",
+      "specifications": [],
+      "targetMarkets": [],
+      "responsibleTeam": "To be assigned",
+      "startDate": "2024-11-01",
+      "expectedCompletionDate": "2025-11-18",
+      "description": "Product: Mainland China",
+      "features": [],
+      "priority": "medium",
+      "budget": 0,
+      "actualCost": 0,
+      "riskLevel": "medium",
+      "dependencies": [],
+      "stakeholders": [],
+      "notes": "",
+      "metadata": {},
+      "createdAt": "2025-08-20T11:50:11.193Z",
+      "updatedAt": "2025-08-24T09:54:34.345Z",
+      "alignmentCount": 0,
+      "averageStrength": 0,
+      "alignments": [],
+      "id": "product_1755690611193_biiekorjv",
+      "createdBy": "user",
+      "updatedBy": "user"
+    },
+    {
+      "name": "HK & Macau Market",
+      "status": "launch",
+      "progress": 0,
+      "mainCategory": "Market",
+      "subCategory": "Greater China Region",
+      "specifications": [],
+      "targetMarkets": [],
+      "responsibleTeam": "To be assigned",
+      "startDate": "2024-12-01",
+      "expectedCompletionDate": "2025-11-18",
+      "description": "Product: Hong Kong and Macau",
+      "features": [],
+      "priority": "medium",
+      "budget": 0,
+      "actualCost": 0,
+      "riskLevel": "medium",
+      "dependencies": [],
+      "stakeholders": [],
+      "notes": "",
+      "metadata": {},
+      "createdAt": "2025-08-20T11:50:19.721Z",
+      "updatedAt": "2025-08-24T09:55:11.915Z",
+      "alignmentCount": 0,
+      "averageStrength": 0,
+      "alignments": [],
+      "id": "product_1755690619721_3zpmiule0",
+      "createdBy": "user",
+      "updatedBy": "user"
+    },
+    {
+      "name": "UL1973 Cert",
+      "status": "planning",
+      "progress": 0,
+      "mainCategory": "Certification Compliance",
+      "subCategory": "Inverter",
+      "specifications": [],
+      "targetMarkets": [],
+      "responsibleTeam": "To be assigned",
+      "startDate": "2025-01-01",
+      "expectedCompletionDate": "2025-11-18",
+      "description": "Product: UL1973",
+      "features": [],
+      "priority": "medium",
+      "budget": 0,
+      "actualCost": 0,
+      "riskLevel": "medium",
+      "dependencies": [],
+      "stakeholders": [],
+      "notes": "",
+      "metadata": {},
+      "createdAt": "2025-08-20T11:50:51.836Z",
+      "updatedAt": "2025-08-20T11:50:51.836Z",
+      "alignmentCount": 1,
+      "averageStrength": 50,
+      "alignments": [
+        {
+          "id": "align_1756023037542_k9xbxy",
+          "sourceType": "product",
+          "strength": 50,
+          "benefits": [],
+          "challenges": []
+        }
+      ],
+      "id": "product_1755690651836_yh3vjqyf4"
+    }
+  ],
+  "alignments": [
+    {
+      "id": "align_1756023037535_5wlvb9",
+      "sourceType": "product",
+      "sourceId": "product_1754634282074_7jrblh",
+      "targetType": "product",
+      "targetId": "product_1754634282075_yarc0k",
+      "alignmentStrength": 90,
+      "strengthLevel": "strong",
+      "description": "Strong alignment relationship between single-phase residential energy storage and one-click upgrade system",
+      "benefits": [
+        "Improve product reliability",
+        "Reduce maintenance costs",
+        "Quick problem resolution",
+        "Enhance product competitiveness"
+      ],
+      "challenges": [
+        "Requires stable network environment",
+        "Upgrade process needs security measures",
+        "User training required"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "align_1756023037536_gq576d",
+      "sourceType": "product",
+      "sourceId": "product_1754634282074_7jrblh",
+      "targetType": "product",
+      "targetId": "product_1754634282075_fd49sm",
+      "alignmentStrength": 85,
+      "strengthLevel": "strong",
+      "description": "High alignment between single-phase residential energy storage and App redesign",
+      "benefits": [
+        "Improve user experience",
+        "Enhance product usability",
+        "Lower user barriers",
+        "Expand market acceptance"
+      ],
+      "challenges": [
+        "Need to adapt to multiple devices",
+        "High user experience requirements",
+        "Continuous optimization needed"
+      ],
+      "metadata": {
+        "category": "household-to-digital",
+        "priority": "high",
+        "team": "Residential Storage Team"
+      }
+    },
+    {
+      "id": "align_1756023037536_2psglp",
+      "sourceType": "product",
+      "sourceId": "product_1754634282074_7jrblh",
+      "targetType": "product",
+      "targetId": "product_1754634282075_j5balu",
+      "alignmentStrength": 95,
+      "strengthLevel": "strong",
+      "description": "Strong alignment relationship between single-phase residential energy storage and VPP intelligent dispatch, revenue maximization already achieved",
+      "benefits": [
+        "Maximize user benefits",
+        "Enhance product value",
+        "Strengthen market competitiveness",
+        "Support grid balance"
+      ],
+      "challenges": [
+        "Requires electricity price data access",
+        "High algorithm optimization requirements",
+        "User authorization needed"
+      ],
+      "metadata": {
+        "category": "household-to-ai",
+        "priority": "high",
+        "team": "Residential Storage Team"
+      }
+    },
+    {
+      "id": "align_1756023037536_9fbhtm",
+      "sourceType": "product",
+      "sourceId": "product_1754634282074_90bhv8",
+      "targetType": "product",
+      "targetId": "product_1754634282075_yarc0k",
+      "alignmentStrength": 85,
+      "strengthLevel": "strong",
+      "description": "Strong alignment relationship between three-phase residential energy storage and one-click upgrade system",
+      "benefits": [
+        "Improve product reliability",
+        "Reduce maintenance costs",
+        "Quick problem resolution",
+        "Enhance product competitiveness"
+      ],
+      "challenges": [
+        "Requires stable network environment",
+        "Upgrade process needs security measures",
+        "User training required"
+      ],
+      "metadata": {
+        "category": "household-to-digital",
+        "priority": "high",
+        "team": "Residential Storage Team"
+      }
+    },
+    {
+      "id": "align_1756023037536_ffpdqk",
+      "sourceType": "product",
+      "sourceId": "product_1754634282074_90bhv8",
+      "targetType": "product",
+      "targetId": "product_1754634282075_fd49sm",
+      "alignmentStrength": 80,
+      "strengthLevel": "strong",
+      "description": "High alignment between three-phase residential energy storage and App redesign",
+      "benefits": [
+        "Improve user experience",
+        "Enhance product usability",
+        "Lower user barriers",
+        "Expand market acceptance"
+      ],
+      "challenges": [
+        "Need to adapt to multiple devices",
+        "High user experience requirements",
+        "Continuous optimization needed"
+      ],
+      "metadata": {
+        "category": "household-to-digital",
+        "priority": "high",
+        "team": "Residential Storage Team"
+      }
+    },
+    {
+      "id": "align_1756023037536_5mdwn2",
+      "sourceType": "product",
+      "sourceId": "product_1754634282074_90bhv8",
+      "targetType": "product",
+      "targetId": "product_1754634282075_j5balu",
+      "alignmentStrength": 90,
+      "strengthLevel": "strong",
+      "description": "Strong alignment relationship between three-phase residential energy storage and VPP intelligent dispatch",
+      "benefits": [
+        "Maximize user benefits",
+        "Enhance product value",
+        "Strengthen market competitiveness",
+        "Support grid balance"
+      ],
+      "challenges": [
+        "Requires electricity price data access",
+        "High algorithm optimization requirements",
+        "User authorization needed"
+      ],
+      "metadata": {
+        "category": "household-to-ai",
+        "priority": "high",
+        "team": "Residential Storage Team"
+      }
+    },
+    {
+      "id": "align_1756023037536_xmjbek",
+      "sourceType": "product",
+      "sourceId": "product_1754634282074_gircrb",
+      "targetType": "product",
+      "targetId": "product_1754634282075_fd49sm",
+      "alignmentStrength": 80,
+      "strengthLevel": "strong",
+      "description": "High alignment between balcony energy storage series and App redesign, mobile monitoring is crucial",
+      "benefits": [
+        "Improve user experience",
+        "Enhance product competitiveness",
+        "Lower user barriers",
+        "Expand market acceptance"
+      ],
+      "challenges": [
+        "Need to adapt to multiple devices",
+        "High user experience requirements",
+        "Continuous optimization needed"
+      ],
+      "metadata": {
+        "category": "household-to-digital",
+        "priority": "high",
+        "team": "Residential Storage Team"
+      }
+    },
+    {
+      "id": "align_1756023037536_h2h34t",
+      "sourceType": "product",
+      "sourceId": "product_1754634282074_gircrb",
+      "targetType": "product",
+      "targetId": "product_1754634282075_j5balu",
+      "alignmentStrength": 75,
+      "strengthLevel": "medium",
+      "description": "Alignment relationship between balcony energy storage series and VPP intelligent dispatch",
+      "benefits": [
+        "Provide revenue optimization services",
+        "Enhance product competitiveness",
+        "Support grid balance",
+        "Create new value"
+      ],
+      "challenges": [
+        "Requires electricity price data access",
+        "High algorithm optimization requirements",
+        "User authorization needed"
+      ],
+      "metadata": {
+        "category": "household-to-ai",
+        "priority": "medium",
+        "team": "Residential Storage Team"
+      }
+    },
+    {
+      "id": "align_1756023037536_6kvuls",
+      "sourceType": "product",
+      "sourceId": "product_1754634282074_botzrv",
+      "targetType": "product",
+      "targetId": "product_1754634282075_y6cygk",
+      "alignmentStrength": 90,
+      "strengthLevel": "strong",
+      "description": "Strong alignment relationship between WIT intelligent system and Grominder commercial energy storage system, four-level monitoring perfect match",
+      "benefits": [
+        "Four-level monitoring perfect match",
+        "Improve system reliability",
+        "Reduce operation and maintenance costs",
+        "Enhance system competitiveness"
+      ],
+      "challenges": [
+        "Requires deep technical coordination",
+        "High data integration requirements",
+        "Operation and maintenance team training needed"
+      ],
+      "metadata": {
+        "category": "microgrid-to-digital",
+        "priority": "high",
+        "team": "Commercial Energy Storage Team"
+      }
+    },
+    {
+      "id": "align_1756023037536_41zsgn",
+      "sourceType": "product",
+      "sourceId": "product_1754634282075_1igatc",
+      "targetType": "product",
+      "targetId": "product_1754634282075_plratp",
+      "alignmentStrength": 85,
+      "strengthLevel": "strong",
+      "description": "Strong alignment relationship between SPF off-grid system and off-grid intelligent algorithms",
+      "benefits": [
+        "Improve system reliability",
+        "Optimize energy dispatch",
+        "Reduce failure rate",
+        "Enhance system competitiveness"
+      ],
+      "challenges": [
+        "High algorithm optimization requirements",
+        "Requires large amounts of data training",
+        "Continuous optimization needed"
+      ],
+      "metadata": {
+        "category": "offgrid-to-ai",
+        "priority": "high",
+        "team": "Off-grid Energy Storage Team"
+      }
+    },
+    {
+      "id": "align_1756023037536_xe49cf",
+      "sourceType": "product",
+      "sourceId": "product_1754920415358_4j6f10",
+      "targetType": "product",
+      "targetId": "product_1754634282075_y6cygk",
+      "alignmentStrength": 50,
+      "strengthLevel": "medium",
+      "description": "Overseas monitoring platform for liquid-cooled battery system",
+      "benefits": [],
+      "challenges": [],
+      "metadata": {}
+    },
+    {
+      "id": "align_1756023037536_s0022f",
+      "sourceType": "product",
+      "sourceId": "product_1754634282074_7jrblh",
+      "targetType": "product",
+      "targetId": "product_1754923825924_tmgl8b",
+      "alignmentStrength": 50,
+      "strengthLevel": "strong",
+      "description": "Energy storage system matching",
+      "benefits": [],
+      "challenges": [],
+      "metadata": {}
+    },
+    {
+      "id": "align_1756023037536_l386xm",
+      "sourceType": "product",
+      "sourceId": "product_1754634282074_90bhv8",
+      "targetType": "product",
+      "targetId": "product_1754923825924_tmgl8b",
+      "alignmentStrength": 80,
+      "strengthLevel": "strong",
+      "description": "Energy storage system compatibility",
+      "benefits": [
+        "Support mixed use of old and new",
+        "Support mixed use of different SOC"
+      ],
+      "challenges": [
+        "Cost too high",
+        "Complex system design (BDC)",
+        "Efficiency impact"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "align_1756023037536_dvj7f4",
+      "sourceType": "product",
+      "sourceId": "product_1754634282074_90bhv8",
+      "targetType": "product",
+      "targetId": "product_1754923836794_6i5d0w",
+      "alignmentStrength": 80,
+      "strengthLevel": "strong",
+      "description": "Second-generation battery extreme cost reduction",
+      "benefits": [
+        "Good cost-effectiveness"
+      ],
+      "challenges": [
+        "Time to market"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "align_1756023037536_150nr9",
+      "sourceType": "product",
+      "sourceId": "product_1754634282074_botzrv",
+      "targetType": "product",
+      "targetId": "product_1754993085391_pdtp1c",
+      "alignmentStrength": 50,
+      "strengthLevel": "medium",
+      "description": "Commercial energy storage system",
+      "benefits": [],
+      "challenges": [],
+      "metadata": {}
+    },
+    {
+      "id": "align_1756023037536_1b5esr",
+      "sourceType": "product",
+      "sourceId": "product_1754634282074_botzrv",
+      "targetType": "product",
+      "targetId": "product_1754993092984_na8hse",
+      "alignmentStrength": 50,
+      "strengthLevel": "medium",
+      "description": "Commercial energy storage system",
+      "benefits": [],
+      "challenges": [],
+      "metadata": {}
+    },
+    {
+      "id": "align_1756023037536_1thrjl",
+      "sourceType": "product",
+      "sourceId": "product_1754634282074_botzrv",
+      "targetType": "product",
+      "targetId": "product_1754993123031_ky01wf",
+      "alignmentStrength": 50,
+      "strengthLevel": "medium",
+      "description": "EMS correlation",
+      "benefits": [],
+      "challenges": [],
+      "metadata": {}
+    },
+    {
+      "id": "align_1756023037536_5mt3vx",
+      "sourceType": "product",
+      "sourceId": "product_1754634282074_gircrb",
+      "targetType": "product",
+      "targetId": "product_1754634282075_yarc0k",
+      "alignmentStrength": 80,
+      "strengthLevel": "strong",
+      "description": "Alignment relationship: product_1754634282074_gircrb -> product_1754634282075_yarc0k",
+      "benefits": [
+        "Remote"
+      ],
+      "challenges": [],
+      "metadata": {}
+    },
+    {
+      "id": "align_1756023037536_76iihv",
+      "sourceType": "product",
+      "sourceId": "product_1755090458691_zo3a1h",
+      "targetType": "product",
+      "targetId": "product_1754634282075_yarc0k",
+      "alignmentStrength": 90,
+      "strengthLevel": "strong",
+      "description": "Alignment relationship: product_1755090458691_zo3a1h -> product_1754634282075_yarc0k",
+      "benefits": [],
+      "challenges": [],
+      "metadata": {}
+    },
+    {
+      "id": "align_1756023037537_d1vvp8",
+      "sourceType": "product",
+      "sourceId": "product_1755090478061_jrcz3q",
+      "targetType": "product",
+      "targetId": "product_1754634282075_yarc0k",
+      "alignmentStrength": 90,
+      "strengthLevel": "strong",
+      "description": "Alignment relationship: product_1755090478061_jrcz3q -> product_1754634282075_yarc0k",
+      "benefits": [],
+      "challenges": [],
+      "metadata": {}
+    },
+    {
+      "id": "align_1756023037537_jeq8qb",
+      "sourceType": "product",
+      "sourceId": "product_1754923825924_tmgl8b",
+      "targetType": "product",
+      "targetId": "product_1754634282075_yarc0k",
+      "alignmentStrength": 50,
+      "strengthLevel": "medium",
+      "description": "Alignment relationship: product_1754923825924_tmgl8b -> product_1754634282075_yarc0k",
+      "benefits": [],
+      "challenges": [],
+      "metadata": {}
+    },
+    {
+      "id": "align_1756023037537_o7wakm",
+      "sourceType": "product",
+      "sourceId": "product_1755099650849_zdfeau",
+      "targetType": "product",
+      "targetId": "product_1755099574151_xp5jpu",
+      "alignmentStrength": 90,
+      "strengthLevel": "strong",
+      "description": "Alignment relationship: product_1755099650849_zdfeau -> product_1755099574151_xp5jpu",
+      "benefits": [],
+      "challenges": [],
+      "metadata": {}
+    },
+    {
+      "id": "align_1756023037537_951kga",
+      "sourceType": "product",
+      "sourceId": "product_1755099650849_zdfeau",
+      "targetType": "product",
+      "targetId": "product_1755099594050_a1hrse",
+      "alignmentStrength": 90,
+      "strengthLevel": "strong",
+      "description": "North America machine built-in data logger (FUDA third party)",
+      "benefits": [],
+      "challenges": [],
+      "metadata": {}
+    },
+    {
+      "id": "align_1756023037537_4qxv88",
+      "sourceType": "product",
+      "sourceId": "product_1755099650849_zdfeau",
+      "targetType": "product",
+      "targetId": "product_1755099615337_bsqywd",
+      "alignmentStrength": 50,
+      "strengthLevel": "medium",
+      "description": "Alignment relationship: product_1755099650849_zdfeau -> product_1755099615337_bsqywd",
+      "benefits": [],
+      "challenges": [],
+      "metadata": {}
+    },
+    {
+      "id": "align_1756023037537_ma2ttj",
+      "sourceType": "product",
+      "sourceId": "product_1755099650849_zdfeau",
+      "targetType": "product",
+      "targetId": "product_1755099622369_0q3gyz",
+      "alignmentStrength": 50,
+      "strengthLevel": "medium",
+      "description": "To 3rd Party",
+      "benefits": [],
+      "challenges": [],
+      "metadata": {}
+    },
+    {
+      "id": "align_1756023037537_jdpfhz",
+      "sourceType": "product",
+      "sourceId": "product_1755005317018_hl7u6n",
+      "targetType": "product",
+      "targetId": "product_1754993164149_eo2qvt",
+      "alignmentStrength": 50,
+      "strengthLevel": "medium",
+      "description": "Multi-machine monitoring + anti-reverse flow",
+      "benefits": [],
+      "challenges": [],
+      "metadata": {}
+    },
+    {
+      "id": "align_1756023037537_xgxe9s",
+      "sourceType": "product",
+      "sourceId": "product_1754634282074_7jrblh",
+      "targetType": "product",
+      "targetId": "product_1754993164149_eo2qvt",
+      "alignmentStrength": 50,
+      "strengthLevel": "medium",
+      "description": "Multi-machine monitoring + EMS",
+      "benefits": [],
+      "challenges": [],
+      "metadata": {}
+    },
+    {
+      "id": "align_1756023037537_d71dme",
+      "sourceType": "product",
+      "sourceId": "product_1754634282074_90bhv8",
+      "targetType": "product",
+      "targetId": "product_1754993164149_eo2qvt",
+      "alignmentStrength": 50,
+      "strengthLevel": "medium",
+      "description": "Multi-machine monitoring + anti-reverse flow + EMS",
+      "benefits": [],
+      "challenges": [],
+      "metadata": {}
+    },
+    {
+      "id": "align_1756023037537_6oj1pk",
+      "sourceType": "product",
+      "sourceId": "product_1755100166873_g0v2vk",
+      "targetType": "product",
+      "targetId": "product_1755090458691_zo3a1h",
+      "alignmentStrength": 50,
+      "strengthLevel": "medium",
+      "description": "Monitoring",
+      "benefits": [],
+      "challenges": [],
+      "metadata": {}
+    },
+    {
+      "id": "align_1756023037537_nz1laz",
+      "sourceType": "product",
+      "sourceId": "product_1754634282074_7jrblh",
+      "targetType": "product",
+      "targetId": "product_1754923836794_6i5d0w",
+      "alignmentStrength": 90,
+      "strengthLevel": "strong",
+      "description": "Alignment relationship: product_1754634282074_7jrblh -> product_1754923836794_6i5d0w",
+      "benefits": [],
+      "challenges": [],
+      "metadata": {}
+    },
+    {
+      "id": "align_1756023037537_duh47s",
+      "sourceType": "product",
+      "sourceId": "product_1755100176749_8y1zmi",
+      "targetType": "product",
+      "targetId": "product_1754993123031_ky01wf",
+      "alignmentStrength": 84,
+      "strengthLevel": "strong",
+      "description": "Alignment relationship: product_1755100176749_8y1zmi -> product_1754993123031_ky01wf",
+      "benefits": [],
+      "challenges": [],
+      "metadata": {}
+    },
+    {
+      "id": "align_1756023037537_c9djp2",
+      "sourceType": "product",
+      "sourceId": "product_1754634282074_7jrblh",
+      "targetType": "product",
+      "targetId": "product_1755655031805_nqmdi68tc",
+      "alignmentStrength": 50,
+      "strengthLevel": "medium",
+      "description": "Alignment relationship: product_1754634282074_7jrblh -> product_1755655031805_nqmdi68tc",
+      "benefits": [],
+      "challenges": [],
+      "metadata": {}
+    },
+    {
+      "id": "align_1756023037538_x975y6",
+      "sourceType": "product",
+      "sourceId": "product_1754634282074_90bhv8",
+      "targetType": "product",
+      "targetId": "product_1755655031805_nqmdi68tc",
+      "alignmentStrength": 50,
+      "strengthLevel": "medium",
+      "description": "Alignment relationship: product_1754634282074_90bhv8 -> product_1755655031805_nqmdi68tc",
+      "benefits": [],
+      "challenges": [],
+      "metadata": {}
+    },
+    {
+      "id": "align_1756023037538_ou8jca",
+      "sourceType": "product",
+      "sourceId": "product_1754634282074_gircrb",
+      "targetType": "product",
+      "targetId": "product_1755655031805_nqmdi68tc",
+      "alignmentStrength": 50,
+      "strengthLevel": "medium",
+      "description": "Alignment relationship: product_1754634282074_gircrb -> product_1755655031805_nqmdi68tc",
+      "benefits": [],
+      "challenges": [],
+      "metadata": {}
+    },
+    {
+      "id": "align_1756023037538_9jkk15",
+      "sourceType": "product",
+      "sourceId": "product_1754923825924_tmgl8b",
+      "targetType": "product",
+      "targetId": "product_1755655350474_dyumlwb3t",
+      "alignmentStrength": 50,
+      "strengthLevel": "medium",
+      "description": "Alignment relationship: product_1754923825924_tmgl8b -> product_1755655350474_dyumlwb3t",
+      "benefits": [],
+      "challenges": [],
+      "metadata": {}
+    },
+    {
+      "id": "align_1756023037538_8w8m9g",
+      "sourceType": "product",
+      "sourceId": "product_1754923825924_tmgl8b",
+      "targetType": "product",
+      "targetId": "product_1755655031805_nqmdi68tc",
+      "alignmentStrength": 50,
+      "strengthLevel": "medium",
+      "description": "Alignment relationship: product_1754923825924_tmgl8b -> product_1755655031805_nqmdi68tc",
+      "benefits": [],
+      "challenges": [],
+      "metadata": {}
+    },
+    {
+      "id": "align_1756023037538_rni6au",
+      "sourceType": "product",
+      "sourceId": "product_1754634282074_7jrblh",
+      "targetType": "product",
+      "targetId": "product_1755658562794_7gdd4e3p6",
+      "alignmentStrength": 50,
+      "strengthLevel": "medium",
+      "description": "对齐关系: product_1754634282074_7jrblh -> product_1755658562794_7gdd4e3p6",
+      "benefits": [],
+      "challenges": [],
+      "metadata": {}
+    },
+    {
+      "id": "align_1756023037538_6156ro",
+      "sourceType": "product",
+      "sourceId": "product_1755660984685_oiywb3iql",
+      "targetType": "product",
+      "targetId": "product_1755660902457_9ww5z7izk",
+      "alignmentStrength": 50,
+      "strengthLevel": "medium",
+      "description": "对齐关系: product_1755660984685_oiywb3iql -> product_1755660902457_9ww5z7izk",
+      "benefits": [],
+      "challenges": [],
+      "metadata": {}
+    },
+    {
+      "id": "align_1756023037539_ce1bxd",
+      "sourceType": "product",
+      "sourceId": "product_1755660984685_oiywb3iql",
+      "targetType": "product",
+      "targetId": "product_1755660915644_tsul9okoa",
+      "alignmentStrength": 50,
+      "strengthLevel": "medium",
+      "description": "对齐关系: product_1755660984685_oiywb3iql -> product_1755660915644_tsul9okoa",
+      "benefits": [],
+      "challenges": [],
+      "metadata": {}
+    },
+    {
+      "id": "align_1756023037540_7osfn7",
+      "sourceType": "product",
+      "sourceId": "product_1755660984685_oiywb3iql",
+      "targetType": "product",
+      "targetId": "product_1755655235501_lw8eod5y0",
+      "alignmentStrength": 50,
+      "strengthLevel": "medium",
+      "description": "对齐关系: product_1755660984685_oiywb3iql -> product_1755655235501_lw8eod5y0",
+      "benefits": [],
+      "challenges": [],
+      "metadata": {}
+    },
+    {
+      "id": "align_1756023037540_b0lxcz",
+      "sourceType": "product",
+      "sourceId": "product_1755660984685_oiywb3iql",
+      "targetType": "product",
+      "targetId": "product_1755655350474_dyumlwb3t",
+      "alignmentStrength": 50,
+      "strengthLevel": "medium",
+      "description": "对齐关系: product_1755660984685_oiywb3iql -> product_1755655350474_dyumlwb3t",
+      "benefits": [],
+      "challenges": [],
+      "metadata": {}
+    },
+    {
+      "id": "align_1756023037541_6csbw3",
+      "sourceType": "product",
+      "sourceId": "product_1755099650849_zdfeau",
+      "targetType": "product",
+      "targetId": "product_1755655235501_lw8eod5y0",
+      "alignmentStrength": 50,
+      "strengthLevel": "medium",
+      "description": "对齐关系: product_1755099650849_zdfeau -> product_1755655235501_lw8eod5y0",
+      "benefits": [],
+      "challenges": [],
+      "metadata": {}
+    },
+    {
+      "id": "align_1756023037542_k9xbxy",
+      "sourceType": "product",
+      "sourceId": "product_1755099650849_zdfeau",
+      "targetType": "product",
+      "targetId": "product_1755690651836_yh3vjqyf4",
+      "alignmentStrength": 50,
+      "strengthLevel": "medium",
+      "description": "对齐关系: product_1755099650849_zdfeau -> product_1755690651836_yh3vjqyf4",
+      "benefits": [],
+      "challenges": [],
+      "metadata": {}
+    }
+  ]
+}
