@@ -1,6 +1,6 @@
 {
-  "version": "2.6.0",
-  "buildTime": "2025-01-27T14:00:00.000Z",
-  "commitHash": "webdav-production-fix",
+  "version": "2.6.1",
+  "buildTime": "2025-01-27T15:00:00.000Z",
+  "commitHash": "webdav-production-fix-v2.6.1",
   "environment": "development"
 }
