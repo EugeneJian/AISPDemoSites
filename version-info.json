@@ -1,6 +1,21 @@
 {
-  "version": "2.6.4",
-  "buildTime": "2025-01-27T17:00:00.000Z",
-  "commitHash": "prod-proxy-config-v2.6.3",
-  "environment": "development"
+  "version": "2.10.0",
+  "buildTime": "2025-01-27T14:35:00.000Z",
+  "commitHash": "webdav-sync-hash-consistency-major-fix-v2.10.0",
+  "buildNumber": "20250127.143500",
+  "environment": "production",
+  "features": [
+    "🎯 WebDAV 同步Hash一致性重大修复",
+    "🔧 修复Hash计算不一致问题：统一SyncManager和UnifiedStorageManager的Hash计算方式",
+    "🛠️ 修复localHash不当更新问题：只有Hash真正变化时才更新localHash",
+    "🧹 增强cleanDynamicContent函数：添加遗漏的动态字段清理",
+    "📊 新增etagUpdated统计：正确区分etag-only操作和skip操作",
+    "🔍 智能ETag管理：防止ETag在一致性检查时被错误清除",
+    "🧪 全面测试覆盖：Hash持久性、一致性、ETag管理测试",
+    "📝 详细调试日志：Hash比较、修复验证、最终决定日志",
+    "🔄 彻底解决无限循环上传：数据无变化时正确跳过同步",
+    "✅ 实现真正的增量同步：只有内容真正变化才触发上传",
+    "🎉 问题根本解决：从第一性原理分析并修复所有相关问题",
+    "遵循 RuleLLM.md 开发规范，保持代码质量和可维护性"
+  ]
 }
