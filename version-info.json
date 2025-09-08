@@ -1,8 +1,8 @@
 {
-  "version": "2.13.6",
-  "buildTime": "2025-01-27T17:30:00.000Z",
-  "commitHash": "timeline-legend-fix-v2.13.6",
-  "buildNumber": "20250127.173000",
+  "version": "2.13.10",
+  "buildTime": "2025-01-27T23:59:00.000Z",
+  "commitHash": "crud-await-udm-stage-b-v2.13.10",
+  "buildNumber": "20250127.235900",
   "environment": "production",
   "features": [
     "📊 路线图时间轴显示优化：修复时间轴与可视区间对齐问题",
@@ -109,6 +109,24 @@
     "✅ 颜色一致性：图例中的维护阶段橙色与实际产品条颜色完全匹配",
     "🎯 生命周期状态统一：所有产品生命周期状态（概念、规划、开发、测试、发布、维护、退役）颜色映射正确",
     "🛠️ 状态映射重构：从传统状态映射改为生命周期状态直接映射，提升可维护性",
-    "📦 版本升级到v2.13.6：完成时间线图例颜色修复和状态映射优化"
+    "📦 版本升级到v2.13.6：完成时间线图例颜色修复和状态映射优化",
+    "🔗 对齐关系CRUD ID生成修复：解决层级视图和矩阵视图创建对齐关系时缺少ID的问题",
+    "⚡ 服务层委托修复：useProducts和useAlignments的CRUD操作委托给universalProductService和universalAlignmentService",
+    "🎯 ID生成统一：确保所有产品和对齐关系创建时自动生成唯一ID，消除React key警告",
+    "🔄 数据流一致性：CRUD操作后同步回UnifiedDataManager，确保Store状态正确更新",
+    "✅ 矩阵视图创建修复：恢复矩阵视图创建对齐关系时的保存/取消按钮功能",
+    "🎨 界面统一优化：编辑模式仅显示顶部操作按钮，创建模式显示底部操作按钮，避免重复",
+    "📦 版本升级到v2.13.7：完成对齐关系CRUD ID生成修复和界面统一优化",
+    "🔧 Header导入统一数据流修复：解决Header导入功能违反统一数据流规则的问题",
+    "🎯 统一导入流程工具：创建unifiedImportFlow.ts工具函数，确保所有导入方式遵循相同的数据流",
+    "🔄 数据流合规性：Header导入现在完全遵循UI → Service → UDM → 事件 → Store/Hook刷新路径",
+    "✅ 代码复用优化：DataImportManager和WebDAVImportSection都使用统一的导入流程工具",
+    "🛠️ 架构统一：消除Header导入直接调用Service层的违规行为，提升代码一致性",
+    "📊 编译构建成功：所有修改文件通过TypeScript编译和linting检查，无错误",
+    "🎉 版本升级到v2.13.9：完成Header导入统一数据流修复和架构优化",
+    "🔄 Stage B：CRUD await UDM 同步语义化，Hooks改用异步CRUD并await",
+    "📦 导入流程：批量并发异步CRUD + 末端flush，最终从UDM读取",
+    "🧩 运行态路径：App/文件导入/URL导入等切换为异步CRUD，完成即一致",
+    "📦 版本升级到v2.13.10：推进Stage B并提升一致性与稳定性"
   ]
 }
