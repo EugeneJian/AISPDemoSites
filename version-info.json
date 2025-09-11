@@ -1,8 +1,8 @@
 {
-  "version": "2.13.15",
-  "buildTime": "2025-01-09T11:45:00.000Z",
-  "commitHash": "product-editor-i18n-optimization-v2.13.15",
-  "buildNumber": "20250109.114500",
+  "version": "2.13.17",
+  "buildTime": "2025-01-10T02:05:00.000Z",
+  "commitHash": "test-hardcoding-fix-v2.13.16",
+  "buildNumber": "20250110.020500",
   "environment": "production",
   "features": [
     "🎯 多维度可视化分析：支持Sankey图、对齐图、矩阵图、层级图、路线图等多种数据可视化方式",
@@ -20,6 +20,9 @@
     "🔧 预算字段优化：修复controlled/uncontrolled警告，优化预算和实际成本字段为整数千分位格式",
     "📅 日期显示优化：修复结束日期国际化键名错误，优化空日期显示为简洁的--占位符",
     "🎨 用户体验提升：WebDAV配置邮箱输入性能优化，禁用防抖实现实时响应",
-    "📦 版本升级到v2.13.15：完成产品编辑界面国际化和用户体验优化"
+    "📦 版本升级到v2.13.15：完成产品编辑界面国际化和用户体验优化",
+    "🔧 测试修复：修复测试中的硬编码版本号问题，使用统一的版本管理工具",
+    "🐛 循环引用修复：修复 generateDataHash 函数中的循环引用处理，避免栈溢出错误",
+    "📦 版本升级到v2.13.17：修复构建阻断与 ESLint 警告；重构 WebDAVPanel 初始化逻辑；提取 IME 工具常量，保证 Fast Refresh；统一 hooks 依赖，消除 useEffect/useMemo/useCallback 告警；构建通过"
   ]
 }
