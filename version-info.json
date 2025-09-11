@@ -1,7 +1,7 @@
 {
-  "version": "2.13.17",
+  "version": "2.14.1",
   "buildTime": "2025-01-10T02:05:00.000Z",
-  "commitHash": "test-hardcoding-fix-v2.13.16",
+  "commitHash": "roadmap-swimlane-l1-grouping-v2.14.1",
   "buildNumber": "20250110.020500",
   "environment": "production",
   "features": [
@@ -23,6 +23,11 @@
     "📦 版本升级到v2.13.15：完成产品编辑界面国际化和用户体验优化",
     "🔧 测试修复：修复测试中的硬编码版本号问题，使用统一的版本管理工具",
     "🐛 循环引用修复：修复 generateDataHash 函数中的循环引用处理，避免栈溢出错误",
-    "📦 版本升级到v2.13.17：修复构建阻断与 ESLint 警告；重构 WebDAVPanel 初始化逻辑；提取 IME 工具常量，保证 Fast Refresh；统一 hooks 依赖，消除 useEffect/useMemo/useCallback 告警；构建通过"
+    "📦 版本升级到v2.13.17：修复构建阻断与 ESLint 警告；重构 WebDAVPanel 初始化逻辑；提取 IME 工具常量，保证 Fast Refresh；统一 hooks 依赖，消除 useEffect/useMemo/useCallback 告警；构建通过",
+    "🗺️ 路线图泳道图增强：支持L0→L1→L2层级分组显示，提供L0-only和L0&L1两种分组模式切换",
+    "📅 时间刻度优化：泳道图支持月度和季度两种时间刻度显示，提供更灵活的时间粒度选择",
+    "🌐 日期国际化完善：泳道图时间标签和项目完成日期全面支持多语言显示，自动适配用户语言设置",
+    "🎛️ 界面控制优化：移除未实现的导航和缩放控制，简化工具栏界面，提升用户体验",
+    "📦 版本升级到v2.14.1：完成路线图泳道图功能增强和国际化优化"
   ]
 }
